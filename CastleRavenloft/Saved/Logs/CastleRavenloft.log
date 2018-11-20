@@ -6502,3 +6502,1276 @@ LogInit: Object subsystem initialized
 [2018.11.20-01.46.18:645][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Skeletal/Armor/Skel_Armor_Skeleton]
 [2018.11.20-01.46.18:732][123]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/Skel_Armor_Skeleton_Auto5538DD0B4480E914FE8090888C8809CF2.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Skeletal/Armor/Skel_Armor_Skeleton_Auto5.uasset'
 [2018.11.20-01.46.18:747][123]LogFileHelpers: Auto-saving content packages took 1.819
+[2018.11.20-01.55.43:946][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-01.56.15:573][652]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Lanph\Documents\Allegorithmic\Substance Painter\export\TEX_Torch_Base_Color.png)
+[2018.11.20-01.56.15:643][652]LogTexture: Display: Building textures: TEX_Torch_Base_Color (AutoDXT, 1024X1024)
+[2018.11.20-01.56.15:920][652]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Lanph\Documents\Allegorithmic\Substance Painter\export\TEX_Torch_Metallic.png)
+[2018.11.20-01.56.15:975][652]LogTexture: Display: Building textures: TEX_Torch_Metallic (AutoDXT, 1024X1024)
+[2018.11.20-01.56.16:197][652]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Lanph\Documents\Allegorithmic\Substance Painter\export\TEX_Torch_Normal.png)
+[2018.11.20-01.56.16:287][652]LogTexture: Display: Building textures: TEX_Torch_Normal (BC5, 1024X1024)
+[2018.11.20-01.56.16:502][652]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Lanph\Documents\Allegorithmic\Substance Painter\export\TEX_Torch_Roughness.png)
+[2018.11.20-01.56.16:559][652]LogTexture: Display: Building textures: TEX_Torch_Roughness (AutoDXT, 1024X1024)
+[2018.11.20-01.56.16:828][652]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.20-01.56.38:322][288]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/MAT_Torch.MAT_Torch
+[2018.11.20-01.56.38:325][288]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.56.38:404][288]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.56.38:418][288]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.56.38:433][288]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-01.56.38:433][288]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-01.56.38:433][288]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.56.38:433][288]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.56.39:203][300]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-01.56.39:219][300]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-01.56.39:253][301]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-01.56.39:253][301]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-01.56.39:406][302]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-01.56.39:406][302]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-01.56.39:435][303]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-01.56.39:435][303]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-01.56.39:589][307]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-01.56.39:691][309]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-01.56.39:851][312]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-01.56.39:891][313]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-01.56.40:024][315]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-01.56.40:116][317]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-01.56.40:127][317]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-01.56.41:023][318]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-01.56.41:023][318]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-01.56.41:103][319]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.20-01.56.41:103][319]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.20-01.56.41:103][319]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.20-01.56.41:103][319]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.20-01.56.55:382][813]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.56.55:396][813]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-01.56.55:396][813]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-01.56.55:396][813]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.56.55:396][813]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.56.55:396][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.20-01.56.55:429][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.20-01.56.55:457][813]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.56.55:479][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.20-01.56.55:513][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.20-01.56.55:519][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.20-01.56.55:548][813]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.56.55:571][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.20-01.56.55:605][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.20-01.56.55:611][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.20-01.56.55:618][813]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.20-01.56.55:618][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.20-01.56.55:639][813]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.20-01.56.55:639][813]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.20-01.56.55:639][813]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.20-01.56.55:642][813]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.56.55:664][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.20-01.56.55:696][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.20-01.56.55:703][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.20-01.56.55:709][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.20-01.56.55:716][813]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.20-01.56.55:856][815]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.20-01.56.55:856][815]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.20-01.56.55:886][816]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.20-01.56.55:886][816]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.20-01.56.56:103][820]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.20-01.56.56:104][820]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.20-01.56.56:134][821]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.20-01.56.56:134][821]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.20-01.56.56:292][825]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-01.56.56:303][825]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-01.56.56:330][826]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.56.56:330][826]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.56.56:496][830]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-01.56.56:586][832]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-01.56.56:762][836]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-01.56.56:799][837]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-01.56.56:944][840]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-01.56.57:030][841]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-01.56.57:054][841]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-01.56.57:256][846]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-01.56.57:307][847]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-01.56.57:435][850]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-01.56.57:447][850]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-01.56.57:576][853]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-01.56.57:709][856]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-01.56.57:719][856]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.20-01.56.57:719][856]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.20-01.56.57:719][856]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.20-01.56.57:719][856]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.20-01.56.57:743][857]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-01.56.57:788][858]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-01.56.57:962][862]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-01.56.57:963][862]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-01.57.00:455][954]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.57.00:472][954]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-01.57.00:472][954]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-01.57.00:472][954]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.57.00:472][954]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.57.00:474][954]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.20-01.57.00:742][960]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.57.00:748][960]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.57.00:748][960]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-01.57.00:779][961]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-01.57.00:945][965]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-01.57.00:945][965]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-01.57.00:983][966]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-01.57.00:983][966]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-01.57.01:148][970]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-01.57.01:281][973]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-01.57.01:403][975]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-01.57.01:437][976]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-01.57.01:572][979]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-01.57.01:704][982]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-01.57.01:748][983]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-01.57.01:933][987]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-01.57.01:981][988]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-01.57.02:076][990]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-01.57.02:128][991]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-01.57.02:403][997]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.11.20-01.57.02:403][997]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.11.20-01.57.02:403][997]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.20-01.57.02:403][997]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.20-01.57.02:403][997]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.11.20-01.57.02:403][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.20-01.57.03:871][ 53]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.57.03:888][ 53]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-01.57.03:888][ 53]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-01.57.03:888][ 53]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.57.03:888][ 53]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.57.03:888][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.20-01.57.04:165][ 58]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.57.04:165][ 58]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.57.04:173][ 58]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-01.57.04:181][ 58]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-01.57.04:377][ 64]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-01.57.04:377][ 64]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-01.57.04:381][ 64]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-01.57.04:416][ 65]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-01.57.04:594][ 69]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-01.57.04:694][ 71]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-01.57.04:871][ 75]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-01.57.04:871][ 75]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-01.57.05:009][ 78]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-01.57.05:143][ 81]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-01.57.05:184][ 82]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-01.57.05:356][ 86]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-01.57.05:435][ 88]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-01.57.05:533][ 90]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-01.57.05:621][ 92]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-01.57.05:816][ 96]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.11.20-01.57.05:816][ 96]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.11.20-01.57.05:816][ 96]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.20-01.57.05:816][ 96]MaterialEditorStats: Texture samplers: 5/16
+[2018.11.20-01.57.05:816][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2018.11.20-01.57.05:816][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.20-01.57.07:509][159]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.57.07:524][159]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-01.57.07:524][159]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-01.57.07:524][159]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.57.07:524][159]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.57.07:527][159]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.20-01.57.07:777][165]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.57.07:817][166]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.57.07:817][166]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-01.57.07:817][166]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-01.57.07:990][170]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-01.57.07:990][170]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-01.57.08:027][171]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-01.57.08:028][171]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-01.57.08:183][175]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-01.57.08:333][178]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-01.57.08:466][181]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-01.57.08:505][182]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-01.57.08:677][186]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-01.57.08:758][188]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-01.57.08:803][189]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-01.57.08:993][193]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-01.57.09:031][194]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-01.57.09:203][198]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-01.57.09:207][198]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-01.57.09:482][204]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.11.20-01.57.09:482][204]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2018.11.20-01.57.09:482][204]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.20-01.57.09:482][204]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.20-01.57.09:482][204]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.11.20-01.57.09:482][204]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.20-01.57.11:112][265]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.57.11:127][265]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-01.57.11:127][265]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-01.57.11:127][265]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.57.11:127][265]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.57.11:130][265]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.20-01.57.11:369][271]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.57.11:412][271]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.57.11:412][271]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-01.57.11:412][271]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-01.57.11:598][276]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-01.57.11:598][276]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-01.57.11:644][276]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-01.57.11:644][276]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-01.57.11:796][280]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-01.57.11:940][283]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-01.57.12:067][286]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-01.57.12:111][287]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-01.57.12:244][290]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-01.57.12:344][292]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-01.57.12:418][294]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-01.57.12:603][298]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-01.57.12:642][299]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-01.57.12:772][302]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-01.57.12:817][303]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-01.57.13:086][309]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.11.20-01.57.13:086][309]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.11.20-01.57.13:086][309]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.20-01.57.13:086][309]MaterialEditorStats: Texture samplers: 7/16
+[2018.11.20-01.57.13:086][309]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2018.11.20-01.57.13:086][309]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.20-01.57.23:578][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-01.57.23:728][730]LogMaterialEditor: Saving and Compiling material MAT_Torch
+[2018.11.20-01.57.24:296][730]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.57.24:345][730]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-01.57.24:345][730]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-01.57.24:345][730]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.57.24:345][730]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.57.24:361][730]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.57.24:403][730]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.57.24:585][730]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MAT_Torch, compiling. 
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.20-01.57.26:024][730]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.20-01.57.26:025][730]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.20-01.57.26:025][730]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.20-01.57.26:025][730]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.20-01.57.26:025][730]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-01.57.26:025][730]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-01.57.26:026][730]TextureStreamingBuild: Display: Compiling optional shaders took 1.449 seconds.
+[2018.11.20-01.57.28:543][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MAT_Torch" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Materials/MAT_Torch.uasset" SILENT=true
+[2018.11.20-01.57.28:585][730]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/MAT_Torch7D6E846F42A4BADD7726CC93078500A6.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Materials/MAT_Torch.uasset'
+[2018.11.20-01.57.31:306][818]LogSlate: Window 'MAT_Torch' being destroyed
+[2018.11.20-01.57.47:829][540]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/StaticMeshes/SM_Sconce.SM_Sconce
+[2018.11.20-01.57.48:228][540]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2018.11.20-01.58.03:699][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-01.58.03:840][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/SM_Sconce" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_Sconce.uasset" SILENT=true
+[2018.11.20-01.58.03:917][166]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/SM_SconceE1EF56334DF11F8A8B47089C89390951.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_Sconce.uasset'
+[2018.11.20-01.58.05:595][239]LogSlate: Window 'SM_Sconce' being destroyed
+[2018.11.20-01.58.22:073][908]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/MAT_Torch.MAT_Torch
+[2018.11.20-01.58.22:076][908]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.11.20-01.58.22:197][908]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.11.20-01.58.22:212][908]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.11.20-01.58.22:232][908]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-01.58.22:232][908]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-01.58.22:232][908]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.58.22:232][908]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.58.22:258][908]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.20-01.58.22:264][908]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.20-01.58.22:270][908]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.20-01.58.22:276][908]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.20-01.58.23:002][925]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.20-01.58.23:067][927]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.20-01.58.23:067][927]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.20-01.58.23:067][927]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.20-01.58.23:232][931]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-01.58.23:240][931]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-01.58.23:267][932]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.58.23:278][932]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.58.23:426][936]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-01.58.23:590][940]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-01.58.23:746][944]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-01.58.23:781][945]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-01.58.23:870][947]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-01.58.24:025][951]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-01.58.24:071][952]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-01.58.24:267][957]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-01.58.24:307][958]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-01.58.24:422][961]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-01.58.24:511][962]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-01.58.24:584][964]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-01.58.24:724][968]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-01.58.24:768][969]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-01.58.24:782][969]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-01.58.24:782][969]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.11.20-01.58.24:782][969]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.11.20-01.58.24:782][969]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.20-01.58.24:782][969]MaterialEditorStats: Texture samplers: 7/16
+[2018.11.20-01.58.24:782][969]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2018.11.20-01.58.24:782][969]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.20-01.58.24:862][970]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.11.20-01.58.24:890][970]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.11.20-01.58.24:917][970]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.11.20-01.58.24:938][970]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-01.58.25:012][971]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.20-01.58.25:038][971]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.20-01.58.25:113][972]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.20-01.58.25:230][974]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.20-01.58.25:286][976]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.20-01.58.25:314][977]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.20-01.58.25:345][978]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-01.58.25:516][981]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-01.58.25:544][982]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.58.25:575][983]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.58.25:603][984]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-01.58.25:711][987]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-01.58.25:756][988]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-01.58.25:763][988]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-01.58.25:794][989]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-01.58.25:882][991]LogMaterialEditor: Saving and Compiling material MAT_Torch
+[2018.11.20-01.58.26:672][991]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-01.58.26:672][991]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-01.58.26:672][991]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-01.58.26:672][991]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-01.58.26:672][991]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-01.58.26:672][991]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-01.58.26:672][991]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-01.58.26:672][991]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-01.58.26:672][991]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-01.58.26:719][991]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.11.20-01.58.26:777][991]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.20-01.58.26:804][991]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.58.26:831][991]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.20-01.58.26:853][991]LogMaterial: Display: Missing cached shader map for material MAT_Torch, compiling. 
+[2018.11.20-01.58.26:872][991]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.20-01.58.26:975][991]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.20-01.58.27:017][991]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.20-01.58.27:044][991]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MAT_Torch, compiling. 
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.20-01.58.28:807][991]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.20-01.58.28:808][991]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-01.58.28:808][991]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-01.58.28:814][991]TextureStreamingBuild: Display: Compiling optional shaders took 1.779 seconds.
+[2018.11.20-01.58.31:076][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MAT_Torch" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Materials/MAT_Torch.uasset" SILENT=true
+[2018.11.20-01.58.31:194][991]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/MAT_Torch291032FA4A535F0E6A867CABEE3F2203.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Materials/MAT_Torch.uasset'
+[2018.11.20-01.58.31:228][991]MaterialEditorStats: Base pass shader: 121 instructions
+[2018.11.20-01.58.31:228][991]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2018.11.20-01.58.31:228][991]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.20-01.58.31:228][991]MaterialEditorStats: Texture samplers: 7/16
+[2018.11.20-01.58.31:229][991]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2018.11.20-01.58.31:229][991]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.20-01.58.31:846][ 11]LogSlate: Window 'MAT_Torch' being destroyed
+[2018.11.20-01.59.14:993][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-01.59.29:418][123]LogEditorFactories: Performing atomic reimport of [H:/Castle Ravenloft/export/SM_Pew.FBX]
+[2018.11.20-01.59.29:446][123]LogFbx: Loading FBX Scene from H:/Castle Ravenloft/export/SM_Pew.FBX
+[2018.11.20-01.59.29:453][123]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.20-01.59.29:468][123]LogFbx: Warning: Triangulating static mesh Box001
+[2018.11.20-01.59.29:475][123]LogFbx: Warning: Triangulating static mesh Box002
+[2018.11.20-01.59.29:488][123]LogStaticMesh: Building static mesh SM_Pew...
+[2018.11.20-01.59.29:502][123]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/SM_Pew.SM_Pew
+[2018.11.20-01.59.29:515][123]LogEditorFactories: -- imported successfully
+[2018.11.20-01.59.29:522][123]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.11.20-01.59.33:977][325]Cmd: TRANSACTION UNDO
+[2018.11.20-01.59.33:977][325]LogEditorTransaction: Undo Edit Two Sided
+[2018.11.20-01.59.33:991][325]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.11.20-01.59.34:031][326]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-01.59.34:031][326]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-01.59.34:031][326]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.59.34:031][326]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.59.34:772][349]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-01.59.34:795][350]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-01.59.34:818][351]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-01.59.34:818][351]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-01.59.34:999][359]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-01.59.35:018][360]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-01.59.35:039][361]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-01.59.35:039][361]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-01.59.35:194][368]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-01.59.35:333][373]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-01.59.35:501][380]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-01.59.35:555][382]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-01.59.35:698][387]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-01.59.35:794][391]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-01.59.35:846][393]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-01.59.36:000][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-01.59.36:071][402]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-01.59.36:096][403]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-01.59.37:448][481]Cmd: TRANSACTION REDO
+[2018.11.20-01.59.37:448][481]LogEditorTransaction: Redo Edit Two Sided
+[2018.11.20-01.59.37:464][481]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.11.20-01.59.37:482][481]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.20-01.59.37:482][481]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.20-01.59.37:482][481]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.20-01.59.37:482][481]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.20-01.59.37:695][488]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.20-01.59.37:729][489]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-01.59.37:785][491]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-01.59.37:786][491]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-01.59.37:945][496]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-01.59.37:973][498]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-01.59.38:012][500]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-01.59.38:012][500]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-01.59.38:141][506]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-01.59.38:168][507]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-01.59.38:192][508]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-01.59.38:235][510]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-01.59.38:356][515]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-01.59.38:525][521]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-01.59.38:653][525]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-01.59.38:698][527]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-01.59.38:844][533]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-01.59.38:968][537]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-01.59.39:045][540]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-01.59.39:221][546]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-01.59.39:247][547]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-01.59.39:401][553]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-01.59.40:663][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/SM_Pew" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_Pew.uasset" SILENT=true
+[2018.11.20-01.59.40:726][614]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/SM_Pew5F4DFD6942D803D927AE8E826AF6026E.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_Pew.uasset'
+[2018.11.20-01.59.54:856][590]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.20-02.00.26:788][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleMap" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Maps/CastleMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.11.20-02.00.32:524][ 25]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/CastleMap_Auto6438283F545CB0FCD1F4B4AAF376A3254.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Maps/CastleMap_Auto6.umap'
+[2018.11.20-02.00.32:542][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CastleMap' took 5.812
+[2018.11.20-02.00.32:543][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.812
+[2018.11.20-02.00.32:546][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/TEX_Torch_Normal] ([1] browsable assets)...
+[2018.11.20-02.00.32:555][ 25]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/TEX_Torch_Normal.TEX_Torch_Normal]
+[2018.11.20-02.00.32:556][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/TEX_Torch_Normal]
+[2018.11.20-02.00.32:556][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Torch_Normal" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Textures/TEX_Torch_Normal_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.11.20-02.00.32:846][ 25]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Torch_Normal_Auto6934CEA5C4D0EC9977C8833831BE05E71.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Textures/TEX_Torch_Normal_Auto6.uasset'
+[2018.11.20-02.00.32:851][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/TEX_Torch_Base_Color] ([1] browsable assets)...
+[2018.11.20-02.00.32:864][ 25]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/TEX_Torch_Base_Color.TEX_Torch_Base_Color]
+[2018.11.20-02.00.32:864][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/TEX_Torch_Base_Color]
+[2018.11.20-02.00.33:243][ 25]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Torch_Base_Color_Auto64103C9FE4ADB3CB43FD9A1A7C6A9AA86.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Textures/TEX_Torch_Base_Color_Auto6.uasset'
+[2018.11.20-02.00.33:247][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/TEX_Torch_Metallic] ([1] browsable assets)...
+[2018.11.20-02.00.33:255][ 25]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/TEX_Torch_Metallic.TEX_Torch_Metallic]
+[2018.11.20-02.00.33:255][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/TEX_Torch_Metallic]
+[2018.11.20-02.00.33:255][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Torch_Metallic" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Textures/TEX_Torch_Metallic_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.11.20-02.00.33:356][ 25]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Torch_Metallic_Auto608E167024A90972D9125EB80DC53086D.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Textures/TEX_Torch_Metallic_Auto6.uasset'
+[2018.11.20-02.00.33:361][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/TEX_Torch_Roughness] ([1] browsable assets)...
+[2018.11.20-02.00.33:374][ 25]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/TEX_Torch_Roughness.TEX_Torch_Roughness]
+[2018.11.20-02.00.33:374][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/TEX_Torch_Roughness]
+[2018.11.20-02.00.33:475][ 25]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Torch_Roughness_Auto6038D8CA148D6C09A276A1882845DC73A.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Textures/TEX_Torch_Roughness_Auto6.uasset'
+[2018.11.20-02.00.33:484][ 25]LogFileHelpers: Auto-saving content packages took 0.939
+[2018.11.20-02.07.15:615][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-02.07.37:373][511]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Lanph\Documents\Allegorithmic\Substance Painter\export\TEX_Pew_Base_Color.png)
+[2018.11.20-02.07.37:525][511]LogTexture: Display: Building textures: TEX_Pew_Base_Color (AutoDXT, 2048X2048)
+[2018.11.20-02.07.38:768][511]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Lanph\Documents\Allegorithmic\Substance Painter\export\TEX_Pew_Height.png)
+[2018.11.20-02.07.38:843][511]LogTexture: Display: Building textures: TEX_Pew_Height (AutoDXT, 2048X2048)
+[2018.11.20-02.07.39:337][511]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Lanph\Documents\Allegorithmic\Substance Painter\export\TEX_Pew_Metallic.png)
+[2018.11.20-02.07.39:399][511]LogTexture: Display: Building textures: TEX_Pew_Metallic (AutoDXT, 2048X2048)
+[2018.11.20-02.07.39:698][511]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Lanph\Documents\Allegorithmic\Substance Painter\export\TEX_Pew_Normal.png)
+[2018.11.20-02.07.39:878][511]LogTexture: Display: Building textures: TEX_Pew_Normal (BC5, 2048X2048)
+[2018.11.20-02.07.40:235][511]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Lanph\Documents\Allegorithmic\Substance Painter\export\TEX_Pew_Roughness.png)
+[2018.11.20-02.07.40:342][511]LogTexture: Display: Building textures: TEX_Pew_Roughness (AutoDXT, 2048X2048)
+[2018.11.20-02.07.47:868][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-02.08.03:081][184]LogAssetEditorManager: Opening Asset editor for Material /Game/Textures/MAT_Pew.MAT_Pew
+[2018.11.20-02.08.03:084][184]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.03:160][184]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.03:175][184]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.03:192][184]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-02.08.03:193][184]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-02.08.03:193][184]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-02.08.03:193][184]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-02.08.03:947][198]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-02.08.04:000][199]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-02.08.04:001][199]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-02.08.04:001][199]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-02.08.04:143][200]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-02.08.04:161][200]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-02.08.04:168][200]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-02.08.04:184][200]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-02.08.04:339][205]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-02.08.04:440][206]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-02.08.04:592][209]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-02.08.04:641][210]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-02.08.04:774][212]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-02.08.04:838][213]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-02.08.04:884][214]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-02.08.05:085][217]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-02.08.05:085][217]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-02.08.05:578][226]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.20-02.08.05:578][226]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.20-02.08.05:578][226]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.20-02.08.05:578][226]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.20-02.08.06:197][244]LogSlate: Window 'MAT_Pew*' being destroyed
+[2018.11.20-02.08.09:760][337]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.09:774][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.20-02.08.09:791][337]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.20-02.08.09:791][337]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.20-02.08.09:791][337]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-02.08.09:791][337]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-02.08.09:805][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.20-02.08.09:830][337]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.09:848][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.20-02.08.09:882][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.20-02.08.09:888][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.20-02.08.09:918][337]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.09:942][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.20-02.08.09:981][337]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-02.08.09:981][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.20-02.08.09:988][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.20-02.08.09:994][337]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.20-02.08.09:994][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.20-02.08.10:015][337]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-02.08.10:015][337]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.10:029][337]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-02.08.10:033][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.20-02.08.10:072][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.20-02.08.10:077][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.20-02.08.10:084][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.20-02.08.10:091][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.20-02.08.10:119][337]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.10:144][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.11.20-02.08.10:178][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.20-02.08.10:186][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.20-02.08.10:193][337]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.20-02.08.10:193][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.20-02.08.10:200][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.20-02.08.10:207][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.11.20-02.08.10:211][337]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.20-02.08.10:291][338]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.20-02.08.10:342][339]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.20-02.08.10:454][341]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.20-02.08.10:454][341]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.20-02.08.10:529][343]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.20-02.08.10:546][343]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.20-02.08.10:649][345]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.20-02.08.10:655][345]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.20-02.08.10:701][346]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-02.08.10:710][346]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-02.08.10:825][348]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-02.08.10:967][351]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-02.08.11:093][353]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-02.08.11:174][355]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-02.08.11:239][356]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-02.08.11:348][358]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-02.08.11:397][359]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-02.08.11:608][363]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-02.08.11:613][363]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-02.08.11:731][365]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-02.08.11:786][366]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-02.08.11:882][367]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-02.08.12:030][369]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-02.08.12:078][370]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-02.08.12:084][370]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-02.08.12:099][370]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.11.20-02.08.12:099][370]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.11.20-02.08.12:099][370]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.20-02.08.12:099][370]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.20-02.08.12:250][373]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-02.08.12:304][374]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-02.08.12:358][375]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-02.08.12:418][376]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-02.08.17:302][520]LogSlate: Window 'MAT_Pew*' being destroyed
+[2018.11.20-02.08.21:083][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MAT_Pew" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Materials/MAT_Pew.uasset" SILENT=true
+[2018.11.20-02.08.21:183][624]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/MAT_Pew5BED37E746A7C0D8662C60BBF9B0E125.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Materials/MAT_Pew.uasset'
+[2018.11.20-02.08.28:406][833]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.28:424][833]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-02.08.28:425][833]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-02.08.28:425][833]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-02.08.28:425][833]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-02.08.28:427][833]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.11.20-02.08.28:666][838]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-02.08.28:680][838]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-02.08.28:715][839]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-02.08.28:715][839]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-02.08.28:883][842]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-02.08.28:883][842]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-02.08.28:889][842]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-02.08.28:936][843]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-02.08.29:057][845]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-02.08.29:217][848]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-02.08.29:342][850]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-02.08.29:353][850]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-02.08.29:487][852]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-02.08.29:634][855]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-02.08.29:645][855]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-02.08.29:815][858]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-02.08.29:899][860]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-02.08.30:006][862]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-02.08.30:040][862]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-02.08.30:316][867]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.11.20-02.08.30:316][867]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.11.20-02.08.30:316][867]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.20-02.08.30:316][867]MaterialEditorStats: Texture samplers: 4/16
+[2018.11.20-02.08.30:316][867]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.11.20-02.08.30:316][867]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.20-02.08.33:456][962]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.33:473][962]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.20-02.08.33:488][962]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.20-02.08.33:488][962]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.20-02.08.33:488][962]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-02.08.33:488][962]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-02.08.33:733][967]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-02.08.33:761][968]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-02.08.33:761][968]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-02.08.33:763][968]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-02.08.33:935][971]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-02.08.33:943][971]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-02.08.33:949][971]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-02.08.33:981][972]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-02.08.34:153][975]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-02.08.34:266][977]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-02.08.34:397][979]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-02.08.34:431][980]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-02.08.34:567][982]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-02.08.34:665][984]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-02.08.34:718][985]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-02.08.34:892][988]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-02.08.34:946][989]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-02.08.35:066][991]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-02.08.35:107][992]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-02.08.35:394][997]MaterialEditorStats: Base pass shader: 112 instructions
+[2018.11.20-02.08.35:394][997]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 186 instructions
+[2018.11.20-02.08.35:394][997]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.20-02.08.35:394][997]MaterialEditorStats: Texture samplers: 5/16
+[2018.11.20-02.08.35:394][997]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2018.11.20-02.08.35:394][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.20-02.08.39:834][134]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.39:850][134]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-02.08.39:850][134]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-02.08.39:850][134]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-02.08.39:850][134]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-02.08.39:853][134]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.20-02.08.40:092][139]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-02.08.40:132][140]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-02.08.40:132][140]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-02.08.40:135][140]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-02.08.40:305][143]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-02.08.40:314][143]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-02.08.40:348][144]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-02.08.40:350][144]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-02.08.40:508][146]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-02.08.40:634][149]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-02.08.40:801][152]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-02.08.40:846][153]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-02.08.40:955][155]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-02.08.41:069][157]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-02.08.41:086][157]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-02.08.41:308][161]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-02.08.41:354][162]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-02.08.41:453][164]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-02.08.41:512][165]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-02.08.41:799][170]MaterialEditorStats: Base pass shader: 114 instructions
+[2018.11.20-02.08.41:799][170]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2018.11.20-02.08.41:799][170]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.20-02.08.41:799][170]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.20-02.08.41:799][170]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.11.20-02.08.41:799][170]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.20-02.08.44:282][240]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.44:317][240]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.20-02.08.44:332][240]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.20-02.08.44:332][240]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.20-02.08.44:332][240]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.20-02.08.44:332][240]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.20-02.08.44:514][244]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.20-02.08.44:516][244]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.20-02.08.44:565][245]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.20-02.08.44:596][245]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.20-02.08.44:742][248]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.20-02.08.44:756][248]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.20-02.08.44:794][249]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.20-02.08.44:794][249]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.20-02.08.44:957][252]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.20-02.08.44:957][252]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.20-02.08.44:976][252]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.20-02.08.45:008][253]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.20-02.08.45:110][255]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.20-02.08.45:125][255]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.20-02.08.45:181][256]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.20-02.08.45:222][257]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.20-02.08.45:300][258]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.20-02.08.45:403][260]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.20-02.08.45:413][260]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-02.08.45:516][262]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-02.08.45:522][262]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-02.08.45:576][263]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-02.08.45:618][264]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-02.08.45:696][265]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-02.08.45:730][266]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-02.08.45:740][266]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-02.08.45:834][268]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-02.08.46:029][271]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-02.08.46:160][273]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-02.08.46:205][274]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-02.08.46:261][275]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-02.08.46:451][278]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-02.08.46:494][279]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-02.08.46:711][283]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-02.08.46:726][283]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-02.08.46:766][284]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-02.08.46:942][287]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-02.08.47:007][288]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-02.08.47:112][290]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-02.08.47:372][295]MaterialEditorStats: Base pass shader: 114 instructions
+[2018.11.20-02.08.47:372][295]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2018.11.20-02.08.47:372][295]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2018.11.20-02.08.47:372][295]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.20-02.08.47:372][295]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(3)
+[2018.11.20-02.08.47:372][295]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.20-02.08.55:169][533]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.55:191][533]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.20-02.08.55:206][533]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.20-02.08.55:206][533]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.20-02.08.55:206][533]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.20-02.08.55:206][533]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.20-02.08.55:382][537]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.20-02.08.55:390][537]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.20-02.08.55:434][538]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.20-02.08.55:477][539]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.20-02.08.55:643][542]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.20-02.08.55:643][542]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.20-02.08.55:657][542]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.20-02.08.55:665][542]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.20-02.08.55:832][545]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.20-02.08.55:840][545]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.20-02.08.55:882][546]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.20-02.08.55:894][546]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.20-02.08.56:041][549]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.20-02.08.56:041][549]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.20-02.08.56:099][550]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.20-02.08.56:106][550]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.20-02.08.56:206][552]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.20-02.08.56:312][554]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.20-02.08.56:316][554]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.20-02.08.56:425][556]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.20-02.08.56:432][556]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.20-02.08.56:483][557]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.20-02.08.56:516][558]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.20-02.08.56:625][560]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-02.08.56:641][560]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-02.08.56:651][560]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-02.08.56:736][562]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-02.08.56:965][566]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-02.08.57:076][568]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-02.08.57:132][569]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-02.08.57:151][569]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-02.08.57:346][573]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-02.08.57:410][574]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-02.08.57:591][575]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-02.08.57:619][576]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-02.08.57:652][577]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-02.08.57:797][580]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-02.08.57:895][582]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-02.08.57:999][584]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-02.08.58:217][588]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.11.20-02.08.58:217][588]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.11.20-02.08.58:217][588]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2018.11.20-02.08.58:217][588]MaterialEditorStats: Texture samplers: 7/16
+[2018.11.20-02.08.58:217][588]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(4)
+[2018.11.20-02.08.58:217][588]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.20-02.08.58:877][608]LogMaterialEditor: Saving and Compiling material MAT_Pew
+[2018.11.20-02.08.59:457][608]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.59:525][608]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.20-02.08.59:525][608]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.20-02.08.59:525][608]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.20-02.08.59:525][608]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.20-02.08.59:539][608]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.59:589][608]LogMaterial: Display: Missing cached shader map for material MAT_Pew, compiling. 
+[2018.11.20-02.08.59:733][608]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.11.20-02.08.59:733][608]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.11.20-02.08.59:766][608]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MAT_Pew, compiling. 
+[2018.11.20-02.09.02:183][608]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.11.20-02.09.02:183][608]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.11.20-02.09.02:183][608]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.11.20-02.09.02:183][608]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.11.20-02.09.02:183][608]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.11.20-02.09.02:183][608]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.11.20-02.09.02:183][608]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.11.20-02.09.02:183][608]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.20-02.09.02:184][608]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-02.09.02:187][608]TextureStreamingBuild: Display: Compiling optional shaders took 2.427 seconds.
+[2018.11.20-02.09.05:127][608]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-02.09.05:149][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MAT_Pew" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Materials/MAT_Pew.uasset" SILENT=true
+[2018.11.20-02.09.05:212][608]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/MAT_Pew6853B1CE4CF97EB9D4AA7983C0E9B56B.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Materials/MAT_Pew.uasset'
+[2018.11.20-02.09.09:570][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-02.09.09:739][743]LogSlate: Window 'MAT_Pew' being destroyed
+[2018.11.20-02.09.13:888][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pew10)
+[2018.11.20-02.09.15:135][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-02.09.15:365][908]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/StaticMeshes/SM_Pew.SM_Pew
+[2018.11.20-02.09.21:240][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/SM_Pew" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_Pew.uasset" SILENT=true
+[2018.11.20-02.09.21:367][ 58]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/SM_PewC8C2214049FC6257B82F55923714A289.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_Pew.uasset'
+[2018.11.20-02.09.22:165][ 83]LogSlate: Window 'SM_Pew' being destroyed
+[2018.11.20-02.10.52:223][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2ft_Chain2)
+[2018.11.20-02.11.10:608][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.20-02.12.03:406][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pew16)
+[2018.11.20-02.12.04:498][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pew15)
+[2018.11.20-02.12.05:424][493]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Pew16)
+[2018.11.20-02.12.06:117][521]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Pew13)
+[2018.11.20-02.12.06:795][547]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Pew14)
+[2018.11.20-02.12.09:590][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.20-02.12.12:023][799]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Pew4)
+[2018.11.20-02.12.12:886][826]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Pew3)
+[2018.11.20-02.12.13:608][846]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Pew2)
+[2018.11.20-02.12.14:407][869]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Pew)
+[2018.11.20-02.12.16:075][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-02.12.36:192][718]Cmd: SELECT NONE
+[2018.11.20-02.13.03:856][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-02.13.25:014][864]LogSlate: Window 'Save Content' being destroyed
+[2018.11.20-02.13.25:040][864]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.20-02.13.25:059][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Door_Double" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Door_Double.uasset" SILENT=true
+[2018.11.20-02.13.25:177][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/BC_Door_Double568F2FE846A80540146C5480BF6ABF1F.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Door_Double.uasset'
+[2018.11.20-02.13.25:330][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleMap" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.20-02.13.30:933][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/CastleMap479A718C4D8D9C0FB83E89B22B2FF5F4.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap'
+[2018.11.20-02.13.31:712][864]LogFileHelpers: Saving map 'CastleMap' took 6.512
+[2018.11.20-02.13.31:718][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skeletal/Armor/Skel_Armor_Skeleton" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Skeletal/Armor/Skel_Armor_Skeleton.uasset" SILENT=true
+[2018.11.20-02.13.31:829][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/Skel_Armor_SkeletonCD8301394A640AC344AFC18512519DC8.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Skeletal/Armor/Skel_Armor_Skeleton.uasset'
+[2018.11.20-02.13.31:858][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Arms_1_Base_Color" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_1_Base_Color.uasset" SILENT=true
+[2018.11.20-02.13.33:739][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Arms_1_Base_Color33BD7E054B2951F7816BB490F25CE7D5.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_1_Base_Color.uasset'
+[2018.11.20-02.13.33:772][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Arms_1_Metallic" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_1_Metallic.uasset" SILENT=true
+[2018.11.20-02.13.33:920][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Arms_1_MetallicA1E0668F4518AD55A00F7A86C9761ECF.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_1_Metallic.uasset'
+[2018.11.20-02.13.33:962][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Arms_1_Normal" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_1_Normal.uasset" SILENT=true
+[2018.11.20-02.13.34:692][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Arms_1_Normal210CAB1C4B267CFFB9F8739649D3291C.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_1_Normal.uasset'
+[2018.11.20-02.13.34:716][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Arms_1_Roughness" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_1_Roughness.uasset" SILENT=true
+[2018.11.20-02.13.35:182][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Arms_1_Roughness763E84164A9B7711E8445DB7CEB821AB.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_1_Roughness.uasset'
+[2018.11.20-02.13.35:206][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Arms_2_Base_Color" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_2_Base_Color.uasset" SILENT=true
+[2018.11.20-02.13.35:393][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Arms_2_Base_Color3A90FBDD477937655B687BA25FAE2CA1.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_2_Base_Color.uasset'
+[2018.11.20-02.13.35:436][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Arms_2_Metallic" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_2_Metallic.uasset" SILENT=true
+[2018.11.20-02.13.35:597][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Arms_2_MetallicB95F0A814237DC045130DBBEAD10DE17.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_2_Metallic.uasset'
+[2018.11.20-02.13.35:639][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Arms_2_Normal" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_2_Normal.uasset" SILENT=true
+[2018.11.20-02.13.35:956][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Arms_2_NormalCD10AFD64300E28BAAE1D8A9B5B13E1B.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_2_Normal.uasset'
+[2018.11.20-02.13.35:984][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Arms_2_Roughness" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_2_Roughness.uasset" SILENT=true
+[2018.11.20-02.13.36:162][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Arms_2_Roughness181ECACD43CB896FA4EA3AAA07AFF9F4.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Arms_2_Roughness.uasset'
+[2018.11.20-02.13.36:190][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Chest_1_Base_Color" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_1_Base_Color.uasset" SILENT=true
+[2018.11.20-02.13.36:414][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Chest_1_Base_ColorF81155BE4E364F9003FA5BA8C698C449.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_1_Base_Color.uasset'
+[2018.11.20-02.13.36:456][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Chest_1_Metallic" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_1_Metallic.uasset" SILENT=true
+[2018.11.20-02.13.36:601][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Chest_1_MetallicB49887D7451DC2A95BD33DB17782052B.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_1_Metallic.uasset'
+[2018.11.20-02.13.36:628][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Chest_1_Normal" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_1_Normal.uasset" SILENT=true
+[2018.11.20-02.13.36:914][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Chest_1_NormalE4A482F64B911CAEF7ABE5961680DB3F.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_1_Normal.uasset'
+[2018.11.20-02.13.36:956][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Chest_1_Roughness" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_1_Roughness.uasset" SILENT=true
+[2018.11.20-02.13.37:161][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Chest_1_Roughness9B748B204ED26631DCE2CBAC814EE8D8.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_1_Roughness.uasset'
+[2018.11.20-02.13.37:263][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Chest_2_Base_Color" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_2_Base_Color.uasset" SILENT=true
+[2018.11.20-02.13.37:464][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Chest_2_Base_ColorF192177748BC3C0EFC1399B100360456.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_2_Base_Color.uasset'
+[2018.11.20-02.13.37:488][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Chest_2_Metallic" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_2_Metallic.uasset" SILENT=true
+[2018.11.20-02.13.37:731][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Chest_2_Metallic11E2A99C49579EF6B4D079B79D15F13E.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_2_Metallic.uasset'
+[2018.11.20-02.13.37:762][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Chest_2_Normal" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_2_Normal.uasset" SILENT=true
+[2018.11.20-02.13.38:005][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Chest_2_NormalC1A641D14025DBEAE884BF802BAB3CFB.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_2_Normal.uasset'
+[2018.11.20-02.13.38:031][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Chest_2_Roughness" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_2_Roughness.uasset" SILENT=true
+[2018.11.20-02.13.38:213][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Chest_2_Roughness228FF10F477532C7356086AB7252ABE9.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Chest_2_Roughness.uasset'
+[2018.11.20-02.13.38:242][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Helm_1_Base_Color" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_1_Base_Color.uasset" SILENT=true
+[2018.11.20-02.13.38:440][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Helm_1_Base_Color2DF3C12E4804FE3C4A04678A1AAEBB94.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_1_Base_Color.uasset'
+[2018.11.20-02.13.38:471][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Helm_1_Metallic" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_1_Metallic.uasset" SILENT=true
+[2018.11.20-02.13.38:633][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Helm_1_Metallic1454541546A08B08011CC3A547546B1C.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_1_Metallic.uasset'
+[2018.11.20-02.13.38:668][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Helm_1_Normal" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_1_Normal.uasset" SILENT=true
+[2018.11.20-02.13.38:880][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Helm_1_Normal348903A14E19513CF6BF56A6FCD1CE8D.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_1_Normal.uasset'
+[2018.11.20-02.13.38:905][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Helm_1_Roughness" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_1_Roughness.uasset" SILENT=true
+[2018.11.20-02.13.39:080][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Helm_1_Roughness481BBF7B4F90B55C577B8CA84B23782B.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_1_Roughness.uasset'
+[2018.11.20-02.13.39:107][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Helm_2_Base_Color" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_2_Base_Color.uasset" SILENT=true
+[2018.11.20-02.13.39:303][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Helm_2_Base_ColorEB806C444E3997EC990046919017A41E.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_2_Base_Color.uasset'
+[2018.11.20-02.13.39:327][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Helm_2_Metallic" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_2_Metallic.uasset" SILENT=true
+[2018.11.20-02.13.39:541][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Helm_2_MetallicE7275ABF43190F4028123A996398438E.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_2_Metallic.uasset'
+[2018.11.20-02.13.39:567][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Helm_2_Normal" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_2_Normal.uasset" SILENT=true
+[2018.11.20-02.13.39:865][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Helm_2_Normal356A258D45D3098F01635480B7CB19A0.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_2_Normal.uasset'
+[2018.11.20-02.13.39:901][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Helm_2_Roughness" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_2_Roughness.uasset" SILENT=true
+[2018.11.20-02.13.40:101][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Helm_2_Roughness4D0F69EF4D1171418A75DE91E99625BE.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Helm_2_Roughness.uasset'
+[2018.11.20-02.13.40:141][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Legs_Base_Color" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Legs_Base_Color.uasset" SILENT=true
+[2018.11.20-02.13.40:375][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Legs_Base_Color797DC56D4832BBB8606161AD2F9BD8BC.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Legs_Base_Color.uasset'
+[2018.11.20-02.13.40:398][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Legs_Height" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Legs_Height.uasset" SILENT=true
+[2018.11.20-02.13.40:595][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Legs_Height24DE35DB48D134588B62439FC132D6FE.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Legs_Height.uasset'
+[2018.11.20-02.13.40:651][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Legs_Metallic" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Legs_Metallic.uasset" SILENT=true
+[2018.11.20-02.13.41:368][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Legs_Metallic843C5FEC4923FF6B65FEDFB18A65FD82.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Legs_Metallic.uasset'
+[2018.11.20-02.13.41:394][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Legs_Normal" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Legs_Normal.uasset" SILENT=true
+[2018.11.20-02.13.42:014][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Legs_Normal03EA40BE4AA9CCE63C031089DC2B1ED4.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Legs_Normal.uasset'
+[2018.11.20-02.13.42:056][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Armor/TEX_Legs_Roughness" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Legs_Roughness.uasset" SILENT=true
+[2018.11.20-02.13.42:900][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Legs_Roughness7DE77B714BF4C088AB0EB0AD75A3CF4E.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/Armor/TEX_Legs_Roughness.uasset'
+[2018.11.20-02.13.42:938][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Pew_Base_Color" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Pew_Base_Color.uasset" SILENT=true
+[2018.11.20-02.13.43:892][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Pew_Base_ColorC1B95D5D45AB71A4BE822FA3A4CD7FC9.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Pew_Base_Color.uasset'
+[2018.11.20-02.13.43:921][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Pew_Height" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Pew_Height.uasset" SILENT=true
+[2018.11.20-02.13.44:227][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Pew_Height3E2B6E5346C75CE9A1D700997228B085.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Pew_Height.uasset'
+[2018.11.20-02.13.44:246][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Pew_Metallic" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Pew_Metallic.uasset" SILENT=true
+[2018.11.20-02.13.44:374][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Pew_MetallicFD4362FC470FA9DD51812E8A4DC68E90.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Pew_Metallic.uasset'
+[2018.11.20-02.13.44:414][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Pew_Normal" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Pew_Normal.uasset" SILENT=true
+[2018.11.20-02.13.44:833][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Pew_NormalB89DB47D497D97C912925EBC1C6F7A6C.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Pew_Normal.uasset'
+[2018.11.20-02.13.44:858][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Pew_Roughness" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Pew_Roughness.uasset" SILENT=true
+[2018.11.20-02.13.45:380][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Pew_Roughness7B81F1CE4A9A0FD2E218D88ACA87D66C.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Pew_Roughness.uasset'
+[2018.11.20-02.13.45:396][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Sword_Base_Color" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Sword_Base_Color.uasset" SILENT=true
+[2018.11.20-02.13.45:565][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Sword_Base_Color3E13E99E4F6FB42F7AFF7B99CA0A86BF.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Sword_Base_Color.uasset'
+[2018.11.20-02.13.45:587][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Sword_Metallic" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Sword_Metallic.uasset" SILENT=true
+[2018.11.20-02.13.45:774][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Sword_Metallic1211EA1F44582D86421702BC96CBD510.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Sword_Metallic.uasset'
+[2018.11.20-02.13.45:792][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Sword_Normal" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Sword_Normal.uasset" SILENT=true
+[2018.11.20-02.13.45:917][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Sword_Normal52F399D54E237CAAFFDB1D9552C0D04E.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Sword_Normal.uasset'
+[2018.11.20-02.13.45:937][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Sword_Roughness" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Sword_Roughness.uasset" SILENT=true
+[2018.11.20-02.13.46:051][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Sword_Roughness0C0D35724E5EA9DC1C40F5A6D08E5830.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Sword_Roughness.uasset'
+[2018.11.20-02.13.46:072][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Torch_Base_Color" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Torch_Base_Color.uasset" SILENT=true
+[2018.11.20-02.13.46:349][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Torch_Base_Color1DDA254F4C14971DBB09B88EDD6B6E93.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Torch_Base_Color.uasset'
+[2018.11.20-02.13.46:364][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Torch_Metallic" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Torch_Metallic.uasset" SILENT=true
+[2018.11.20-02.13.46:435][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Torch_Metallic90B088A041C3732333417E859DF83C40.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Torch_Metallic.uasset'
+[2018.11.20-02.13.46:452][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Torch_Normal" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Torch_Normal.uasset" SILENT=true
+[2018.11.20-02.13.46:591][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Torch_Normal635779A042F19443C3A8D4870572D4E3.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Torch_Normal.uasset'
+[2018.11.20-02.13.46:613][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/TEX_Torch_Roughness" FILE="H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Torch_Roughness.uasset" SILENT=true
+[2018.11.20-02.13.46:719][864]LogSavePackage: Moving 'H:/Github/CastleRavenloft/CastleRavenloft/Saved/TEX_Torch_Roughness8935CF5642C15527E0AF599756732427.tmp' to 'H:/Github/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Torch_Roughness.uasset'
+[2018.11.20-02.13.47:240][864]LogSlate: Window 'CastleRavenloft - Unreal Editor' being destroyed
+[2018.11.20-02.13.47:702][865]Cmd: QUIT_EDITOR
+[2018.11.20-02.13.48:152][865]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.20-02.13.48:256][865]LogExit: Preparing to exit.
+[2018.11.20-02.13.51:217][865]LogExit: Editor shut down
+[2018.11.20-02.13.51:219][865]LogExit: Transaction tracking system shut down
+[2018.11.20-02.13.52:966][865]LogExit: Object subsystem successfully closed.
+[2018.11.20-02.13.52:994][865]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.20-02.13.52:995][865]LogD3D11RHI: Shutdown
+[2018.11.20-02.13.52:995][865]LogD3D11RHI: CleanupD3DDevice
+[2018.11.20-02.13.53:002][865]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.20-02.13.53:016][865]LogModuleManager: Shutting down and abandoning module MeshBuilder (628)
+[2018.11.20-02.13.53:017][865]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (626)
+[2018.11.20-02.13.53:017][865]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (624)
+[2018.11.20-02.13.53:017][865]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (622)
+[2018.11.20-02.13.53:017][865]LogModuleManager: Shutting down and abandoning module PinnedCommandList (620)
+[2018.11.20-02.13.53:017][865]LogModuleManager: Shutting down and abandoning module SkeletonEditor (618)
+[2018.11.20-02.13.53:017][865]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.11.20-02.13.53:017][865]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.11.20-02.13.53:017][865]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2018.11.20-02.13.53:017][865]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.11.20-02.13.53:017][865]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.11.20-02.13.53:017][865]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.11.20-02.13.53:020][865]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.11.20-02.13.53:021][865]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.11.20-02.13.53:022][865]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.11.20-02.13.53:156][865]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.11.20-02.13.53:156][865]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.11.20-02.13.53:156][865]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.11.20-02.13.53:156][865]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.11.20-02.13.53:156][865]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.11.20-02.13.53:156][865]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.11.20-02.13.53:156][865]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.11.20-02.13.53:156][865]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.11.20-02.13.53:156][865]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.11.20-02.13.53:157][865]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.11.20-02.13.53:157][865]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.11.20-02.13.53:157][865]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.11.20-02.13.53:157][865]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.11.20-02.13.53:157][865]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.11.20-02.13.53:157][865]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.11.20-02.13.53:157][865]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.11.20-02.13.53:157][865]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.11.20-02.13.53:157][865]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.11.20-02.13.53:157][865]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.11.20-02.13.53:157][865]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.11.20-02.13.53:157][865]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.11.20-02.13.53:157][865]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.11.20-02.13.53:210][865]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.11.20-02.13.53:210][865]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.11.20-02.13.53:210][865]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.11.20-02.13.53:210][865]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.11.20-02.13.53:210][865]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.11.20-02.13.53:210][865]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.11.20-02.13.53:210][865]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.11.20-02.13.53:210][865]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.11.20-02.13.53:210][865]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.11.20-02.13.53:210][865]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.11.20-02.13.53:217][865]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.11.20-02.13.53:217][865]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.11.20-02.13.53:219][865]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.11.20-02.13.53:445][865]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.11.20-02.13.53:445][865]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.11.20-02.13.53:445][865]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.11.20-02.13.53:445][865]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.11.20-02.13.53:445][865]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.11.20-02.13.53:445][865]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.11.20-02.13.53:446][865]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.11.20-02.13.53:446][865]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.11.20-02.13.53:446][865]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.11.20-02.13.53:446][865]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.11.20-02.13.53:446][865]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.11.20-02.13.53:446][865]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.11.20-02.13.53:446][865]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.11.20-02.13.53:446][865]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.11.20-02.13.53:446][865]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.11.20-02.13.53:446][865]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.11.20-02.13.53:446][865]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.11.20-02.13.53:446][865]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.11.20-02.13.53:454][865]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.11.20-02.13.53:454][865]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.11.20-02.13.53:454][865]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.11.20-02.13.53:455][865]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.11.20-02.13.53:455][865]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.11.20-02.13.53:455][865]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.11.20-02.13.53:455][865]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.11.20-02.13.53:455][865]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.11.20-02.13.53:455][865]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.11.20-02.13.53:455][865]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.11.20-02.13.53:455][865]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.11.20-02.13.53:455][865]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.11.20-02.13.54:308][865]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.11.20-02.13.54:309][865]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.11.20-02.13.54:309][865]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.20-02.13.54:309][865]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.20-02.13.54:309][865]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.20-02.13.54:309][865]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.20-02.13.54:309][865]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.20-02.13.54:309][865]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.20-02.13.54:309][865]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.20-02.13.54:309][865]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.20-02.13.54:309][865]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.20-02.13.54:410][865]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.20-02.13.54:510][865]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.20-02.13.54:510][865]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.20-02.13.54:510][865]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.20-02.13.54:510][865]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.20-02.13.54:510][865]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.20-02.13.54:510][865]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.20-02.13.54:510][865]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.20-02.13.54:512][865]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.20-02.13.54:512][865]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.20-02.13.54:512][865]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.20-02.13.54:512][865]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.20-02.13.54:512][865]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.20-02.13.54:515][865]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.20-02.13.54:515][865]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.20-02.13.54:515][865]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.20-02.13.54:515][865]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.20-02.13.54:515][865]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.20-02.13.54:515][865]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.20-02.13.54:517][865]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.20-02.13.54:524][865]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.20-02.13.54:527][865]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.20-02.13.54:529][865]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.20-02.13.54:603][865]LogDerivedDataCache: Shutdown
+[2018.11.20-02.13.54:603][865]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.20-02.13.54:603][865]LogXGEController: Cleaning working directory: C:/Users/Lanph/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.20-02.13.54:603][865]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.20-02.13.54:603][865]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.20-02.13.54:603][865]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.20-02.13.54:603][865]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.20-02.13.54:603][865]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.20-02.13.54:603][865]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.20-02.13.54:603][865]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.20-02.13.54:603][865]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.20-02.13.54:604][865]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.20-02.13.54:604][865]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.20-02.13.54:604][865]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.20-02.13.54:604][865]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.20-02.13.54:604][865]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.20-02.13.54:604][865]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.20-02.13.54:604][865]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.20-02.13.54:604][865]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.20-02.13.54:604][865]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.20-02.13.54:604][865]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.20-02.13.54:604][865]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.20-02.13.54:604][865]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.20-02.13.54:604][865]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.20-02.13.54:604][865]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.20-02.13.54:611][865]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.20-02.13.54:611][865]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.20-02.13.54:616][865]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.20-02.13.54:616][865]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.20-02.13.54:650][865]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.20-02.13.54:650][865]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.20-02.13.54:650][865]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.20-02.13.54:650][865]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.20-02.13.54:650][865]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.20-02.13.54:650][865]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.20-02.13.54:650][865]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.20-02.13.54:650][865]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.20-02.13.54:650][865]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.20-02.13.54:650][865]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.20-02.13.54:650][865]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.20-02.13.54:650][865]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.20-02.13.54:651][865]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.20-02.13.54:651][865]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.20-02.13.54:651][865]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.20-02.13.54:651][865]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.20-02.13.54:651][865]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.20-02.13.54:651][865]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.20-02.13.54:652][865]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.20-02.13.54:652][865]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.20-02.13.54:678][865]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.20-02.13.54:678][865]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.20-02.13.54:678][865]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB72E546C-4994-BE24-6C9A-CDB9A2CFA3D6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=c43511c44f5797746b2ccda28d9fffff%7C4d25cda07b7b4e039e4e57046e2b9878%7C0867a836-3ff8-40ee-aac7-9cf0e90c61b1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.20-02.13.54:692][865]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.20-02.13.54:693][865]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.20-02.13.54:694][865]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.20-02.13.54:694][865]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.20-02.13.54:694][865]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.20-02.13.54:694][865]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.20-02.13.54:694][865]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.20-02.13.54:694][865]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.20-02.13.54:694][865]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.20-02.13.54:694][865]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.20-02.13.54:694][865]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.20-02.13.54:694][865]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.20-02.13.54:695][865]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.20-02.13.54:695][865]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.20-02.13.54:695][865]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.20-02.13.54:695][865]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.20-02.13.54:695][865]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.20-02.13.54:695][865]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.20-02.13.54:695][865]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.20-02.13.54:696][865]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.20-02.13.54:696][865]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.20-02.13.54:696][865]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.20-02.13.54:696][865]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.20-02.13.54:696][865]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.20-02.13.54:696][865]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.20-02.13.54:696][865]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.20-02.13.54:696][865]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.20-02.13.54:696][865]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.20-02.13.54:696][865]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.20-02.13.54:696][865]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.20-02.13.54:703][865]LogExit: Exiting.
+[2018.11.20-02.13.54:882][865]Log file closed, 11/19/18 21:13:54
