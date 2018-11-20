@@ -1,0 +1,340 @@
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 0
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Animations/FirstPerson_Fire.uasset" 1
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Animations/FirstPersonFire_Montage.uasset" 2
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Animations/FirstPerson_Idle.uasset" 3
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Animations/FirstPerson_JumpEnd.uasset" 4
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Animations/FirstPerson_JumpLoop.uasset" 5
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Animations/FirstPerson_JumpStart.uasset" 6
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Animations/FirstPerson_Run.uasset" 7
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 8
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Animations/FirstPerson_AnimBP.uasset" 9
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Audio/FirstPersonTemplateWeaponFire02.uasset" 10
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/UserInterface/BPI_PlayerInterface.uasset" 11
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Blueprints/BPAC_MakeInteractive.uasset" 12
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Blueprints/CameraShake/CamShake_Crouch.uasset" 13
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Blueprints/CameraShake/CamShake_Idle.uasset" 14
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Blueprints/CameraShake/CamShake_Run.uasset" 15
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Blueprints/CameraShake/CamShake_Walk.uasset" 16
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/UserInterface/Aldo_PC.uasset" 17
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/UserInterface/F_AldoPC.uasset" 18
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/UserInterface/WBP_HUD.uasset" 19
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/UserInterface/WBP_PauseMenu.uasset" 20
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Blueprints/FirstPersonCharacter.uasset" 21
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Blueprints/FirstPersonHUD.uasset" 22
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Blueprints/FirstPersonGameMode.uasset" 23
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 24
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 25
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 26
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 27
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 28
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 29
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 30
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Textures/UE4_LOGO_CARD.uasset" 31
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 32
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 33
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 34
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 35
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Textures/UE4_Mannequin__normals.uasset" 36
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 37
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Materials/M_UE4Man_Body.uasset" 38
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 39
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Character/Mesh/SK_Mannequin_Arms.uasset" 40
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 41
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 42
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 43
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 44
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 45
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 46
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 47
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 48
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 49
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 50
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Textures/T_FPGun_M.uasset" 51
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Textures/T_FPGun_N.uasset" 52
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Materials/M_FPGun.uasset" 53
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 54
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Mesh/SK_FPGun.uasset" 55
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 56
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Meshes/BaseMaterial.uasset" 57
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Meshes/CubeMaterialOverride.uasset" 58
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Meshes/FirstPersonProjectileMaterial.uasset" 59
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Meshes/FirstPersonProjectileMesh.uasset" 60
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Textures/FirstPersonCrosshair.uasset" 61
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/CabinetTop_MAT.uasset" 62
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_FullPillar_AO.uasset" 63
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_FullPillar_BaseColor.uasset" 64
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_FullPillar_Normal.uasset" 65
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_FullPillar_Roughness.uasset" 66
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/FullPillar_MAT.uasset" 67
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 68
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 69
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 70
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 71
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/Chess.uasset" 72
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/FullPillar.uasset" 73
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/OvalFrame.uasset" 74
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/RectangularFrame.uasset" 75
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/RoundFrame.uasset" 76
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_Heart_Temp.uasset" 77
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_Pew.uasset" 78
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/Mirror_MAT.uasset" 79
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_Test.uasset" 80
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/Stool.uasset" 81
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/Table.uasset" 82
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_FullPillar_Metallic.uasset" 83
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_OrganPipe_Metallic.uasset" 84
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_OrganPipe_Normal.uasset" 85
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Slate_Tile_Height.uasset" 86
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 87
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 88
+"../../../Engine/Content/BasicShapes/Cone.uasset" 89
+"../../../Engine/Content/BasicShapes/Cube.uasset" 90
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 91
+"../../../Engine/Content/BasicShapes/Plane.uasset" 92
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 93
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 94
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 95
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 96
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 97
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 98
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 99
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 100
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 101
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 102
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 103
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 104
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 105
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 106
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 107
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 108
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 109
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 110
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 111
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 112
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 113
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 114
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 115
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 116
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 117
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 118
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 119
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 120
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 121
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 122
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 123
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 124
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 125
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 126
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 127
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 128
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 129
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 130
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 131
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 132
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 133
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 134
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 135
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 136
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 137
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 138
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 139
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 140
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 141
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 142
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 143
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 144
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 145
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 146
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 147
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 148
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 149
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 150
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 151
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 152
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 153
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 154
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 155
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 156
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 157
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 158
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 159
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 160
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 161
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 162
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 163
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 164
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 165
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 166
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 167
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 168
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 169
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 170
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 171
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 172
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 173
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 174
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 175
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 176
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 177
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 178
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 179
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 180
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 181
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 182
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 183
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 184
+"../../../Engine/Content/EngineResources/Black.uasset" 185
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 186
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 187
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 188
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 189
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 190
+"../../../Engine/Content/EngineSounds/Master.uasset" 191
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 192
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 193
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 194
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 195
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 196
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 197
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 198
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 199
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 200
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 201
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 202
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 203
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 204
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 205
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 206
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 207
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 208
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 209
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 210
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 211
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 212
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 213
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 214
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 215
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 216
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 217
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 218
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 219
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 220
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 221
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 222
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 223
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 224
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 225
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 226
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 227
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 228
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 229
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 230
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 231
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 232
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 233
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 234
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 235
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 236
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 237
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 238
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 239
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 240
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 241
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 242
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 243
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/SemiPolishedMetal.uasset" 244
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/SemiPolishedMetal_MAT.uasset" 245
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_Sconce.uasset" 246
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/Torch.uasset" 247
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_2Door.uasset" 248
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_DoorDouble_A.uasset" 249
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_2Door_Arch.uasset" 250
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_DoorDoubleFrame_A.uasset" 251
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap_BuiltData.uasset" 252
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_BasicRock__Normal.uasset" 253
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_BasicRock_AO.uasset" 254
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_BasicRock_BaseColor.uasset" 255
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_BasicRock_Roughness.uasset" 256
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/BasicRock.uasset" 257
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Ceiling_Ambient_Occlusion.uasset" 258
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Ceiling_Base.uasset" 259
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Ceiling_Normal.uasset" 260
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Ceiling_Roughness.uasset" 261
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/Ceiling_MAT.uasset" 262
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_IconGlass_AO.uasset" 263
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_IconGlassBase_Color.uasset" 264
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_IconGlassMetallic.uasset" 265
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_IconGlassNormal.uasset" 266
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_IconGlassOpacity.uasset" 267
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_IconGlassRoughness.uasset" 268
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/IconStainedGlass_MAT.uasset" 269
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Marble_Color.uasset" 270
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Marble_Normal.uasset" 271
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Marble_Rough.uasset" 272
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/MAT_Marble.uasset" 273
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_SideCabinet_AO.uasset" 274
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_SideCabinet_BaseColor.uasset" 275
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_SideCabinet_Normal.uasset" 276
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_SideCabinet_Roughness.uasset" 277
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/Organ_SideCabinet_MAT.uasset" 278
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Control_BaseColor.uasset" 279
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Control_Normal.uasset" 280
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Control_Roughness.uasset" 281
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/OrganControl_MAT.uasset" 282
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_OrganPipe_AO.uasset" 283
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_OrganPipe_BaseColor.uasset" 284
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/OrganPipe_MAT.uasset" 285
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_CabinetTop__Roughness.uasset" 286
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_CabinetTop_AO.uasset" 287
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_CabinetTop_BaseColor.uasset" 288
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_CabinetTop_Normal.uasset" 289
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/OrganTop_MAT.uasset" 290
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_PipeCabinet_AO.uasset" 291
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_PipeCabinet_BaseColor.uasset" 292
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_PipeCabinet_Normal.uasset" 293
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_PipeCabinet_Roughness.uasset" 294
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/PipeCabinet_MAT.uasset" 295
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_RoundStainedGlass_AO.uasset" 296
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_RoundStainedGlass_BaseColor.uasset" 297
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_RoundStainedGlass_Metallic.uasset" 298
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_RoundStainedGlass_Normal.uasset" 299
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_RoundStainedGlass_Opacity2.uasset" 300
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_RoundStainedGlass_Roughness.uasset" 301
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/RoundStainedGlass_MAT.uasset" 302
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_SideSG__BaseColor.uasset" 303
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_SideSG_AO.uasset" 304
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_SideSG_Metallic.uasset" 305
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_SideSG_Normal.uasset" 306
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_SideSG_Opacity.uasset" 307
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_SideSG_Roughness.uasset" 308
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/SidePanel_Glass_MAT.uasset" 309
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Slate_Tile_AO.uasset" 310
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Slate_Tile_DIFF.uasset" 311
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Slate_Tile_Normal.uasset" 312
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Slate_Tile_SPEC.uasset" 313
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/Slate_Tile_MAT.uasset" 314
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Wall_AO.uasset" 315
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Wall_BaseColor.uasset" 316
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Wall_Metallic.uasset" 317
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Wall_Normal.uasset" 318
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Textures/TEX_Wall_Roughness.uasset" 319
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/Wall_MAT.uasset" 320
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/BarrelDivider.uasset" 321
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/FullOrgan.uasset" 322
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/L_SideTriptych.uasset" 323
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/Pillar_Base12.uasset" 324
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/Pillar_Top12.uasset" 325
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/R_SideTriptych.uasset" 326
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Materials/MAT_Altar.uasset" 327
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_Altar.uasset" 328
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_Chapel_Structure.uasset" 329
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/SM_OrganSculptures.uasset" 330
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/Tomb.uasset" 331
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/TombArch.uasset" 332
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/TriptychCenter2.uasset" 333
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/StaticMeshes/WineBarrel.uasset" 334
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap" 335
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Menu/WBP_MainMenu.uasset" 336
+"../../../../Users/scrothenbuhler/My Documents/GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/MenuMap.umap" 337
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 338
+"../../../Engine/Content/Maps/Entry.umap" 339
