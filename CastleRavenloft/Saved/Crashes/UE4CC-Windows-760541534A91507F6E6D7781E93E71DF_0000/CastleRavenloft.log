@@ -1,0 +1,1136 @@
+﻿Log file open, 12/02/18 13:05:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CastleRavenloft
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.175517
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.266s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Core(TM) i7-4820K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX TITAN Z
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.008s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.02-18.06.00:187][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.02-18.06.00:187][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.02-18.06.00:266][  0]LogHAL: Display: Platform has ~ 16 GB [17094057984 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.02-18.06.00:266][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.02-18.06.00:266][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.02-18.06.00:271][  0]LogInit: Computer: DESKTOP-TRDEAJO
+[2018.12.02-18.06.00:271][  0]LogInit: User: AuroraR4
+[2018.12.02-18.06.00:271][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.02-18.06.00:271][  0]LogInit: High frequency timer resolution =3.613277 MHz
+[2018.12.02-18.06.00:271][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.02-18.06.00:271][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.02-18.06.00:271][  0]LogMemory: Process Physical Memory: 101.03 MB used, 101.03 MB peak
+[2018.12.02-18.06.00:271][  0]LogMemory: Process Virtual Memory: 93.36 MB used, 93.36 MB peak
+[2018.12.02-18.06.00:271][  0]LogMemory: Physical Memory: 5784.92 MB used,  10517.25 MB free, 16302.16 MB total
+[2018.12.02-18.06.00:271][  0]LogMemory: Virtual Memory: 4647.54 MB used,  10517.25 MB free, 134217728.00 MB total
+[2018.12.02-18.06.00:950][  0]LogInit: Using OS detected language (en-US).
+[2018.12.02-18.06.00:950][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.02-18.06.00:988][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.02-18.06.01:894][  0]LogStreaming: Display: Took  0.944s to InitEngineTextLocalization.
+[2018.12.02-18.06.01:894][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.02-18.06.02:332][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.02-18.06.02:332][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.02-18.06.05:055][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.02-18.06.05:055][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.02-18.06.05:150][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX TITAN Z' (Feature Level 11_0)
+[2018.12.02-18.06.05:150][  0]LogD3D11RHI:       6035/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.02-18.06.05:152][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.02-18.06.05:152][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.02-18.06.05:152][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.02-18.06.05:159][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.02-18.06.05:159][  0]LogD3D11RHI:     GPU DeviceId: 0x1001 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.02-18.06.05:159][  0]LogWindows: EnumDisplayDevices:
+[2018.12.02-18.06.05:160][  0]LogWindows:    0. 'NVIDIA GeForce GTX TITAN Z' (P:1 D:1)
+[2018.12.02-18.06.05:160][  0]LogWindows:    1. 'NVIDIA GeForce GTX TITAN Z' (P:0 D:1)
+[2018.12.02-18.06.05:160][  0]LogWindows:    2. 'NVIDIA GeForce GTX TITAN Z' (P:0 D:0)
+[2018.12.02-18.06.05:161][  0]LogWindows:    3. 'NVIDIA GeForce GTX TITAN Z' (P:0 D:0)
+[2018.12.02-18.06.05:161][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.02-18.06.05:161][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX TITAN Z
+[2018.12.02-18.06.05:161][  0]LogD3D11RHI:   Driver Version: 398.11 (internal:24.21.13.9811, unified:398.11)
+[2018.12.02-18.06.05:161][  0]LogD3D11RHI:      Driver Date: 6-1-2018
+[2018.12.02-18.06.05:161][  0]LogRHI: Texture pool is 4224 MB (70% of 6035 MB)
+[2018.12.02-18.06.05:220][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.02-18.06.05:240][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.02-18.06.05:243][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../GitHub/CastleRavenloft/CastleRavenloft/Intermediate/Shaders/WorkingDirectory/9896/).
+[2018.12.02-18.06.05:244][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aurora R4/AppData/Local/Temp/UnrealShaderWorkingDir/AA0CEAF143F64E15D4FCADBEFE2FE0E2/'.
+[2018.12.02-18.06.06:367][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.02-18.06.06:410][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.02-18.06.06:437][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.02-18.06.06:472][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.02-18.06.06:541][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.02-18.06.06:573][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.02-18.06.06:617][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.02-18.06.06:651][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.02-18.06.06:679][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:837][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-18.06.06:875][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.02-18.06.07:034][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.02-18.06.07:034][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.02-18.06.07:084][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.02-18.06.07:084][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.02-18.06.07:122][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.02-18.06.07:157][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.02-18.06.07:197][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.02-18.06.07:250][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.02-18.06.07:276][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.02-18.06.07:276][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.02-18.06.08:112][  0]LogXGEController: Cleaning working directory: C:/Users/Aurora R4/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.02-18.06.08:112][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.02-18.06.08:112][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.02-18.06.08:112][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.02-18.06.10:875][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.02-18.06.11:160][  0]LogDerivedDataCache: Loaded boot cache 0.28s 71MB C:/Users/Aurora R4/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.02-18.06.11:160][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aurora R4/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.02-18.06.11:160][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/CastleRavenloft/CastleRavenloft/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.02-18.06.11:160][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.02-18.06.11:160][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/CastleRavenloft/CastleRavenloft/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.02-18.06.11:160][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.02-18.06.11:208][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.02-18.06.11:221][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aurora R4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.02-18.06.11:221][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.02-18.06.11:221][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.02-18.06.11:242][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.02-18.06.11:243][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.02-18.06.11:287][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.02-18.06.11:625][  0]LogAssetRegistry: FAssetRegistry took 0.0279 seconds to start up
+[2018.12.02-18.06.12:077][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.02-18.06.13:128][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.02-18.06.13:348][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.02-18.06.13:348][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.02-18.06.13:349][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.02-18.06.13:349][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.02-18.06.13:436][  0]LogNetVersion: CastleRavenloft 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 37006697)
+[2018.12.02-18.06.15:134][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.168631 seconds
+[2018.12.02-18.06.15:142][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.02-18.06.15:142][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.12.02-18.06.15:142][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.02-18.06.23:987][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.02-18.06.24:041][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.02-18.06.25:084][  0]SourceControl: Source control is disabled
+[2018.12.02-18.06.25:085][  0]SourceControl: Source control is disabled
+[2018.12.02-18.06.25:150][  0]SourceControl: Source control is disabled
+[2018.12.02-18.06.25:192][  0]SourceControl: Source control is disabled
+[2018.12.02-18.06.27:042][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.02-18.06.27:442][  0]LogOcInput: OculusInput pre-init called
+[2018.12.02-18.06.27:751][  0]LogEngine: Initializing Engine...
+[2018.12.02-18.06.27:752][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.02-18.06.27:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.02-18.06.27:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.02-18.06.27:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.02-18.06.27:754][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.02-18.06.28:066][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.02-18.06.28:126][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.02-18.06.28:140][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-18.06.28:333][  0]LogInit: FAudioDevice initialized.
+[2018.12.02-18.06.28:333][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.02-18.06.28:415][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Aurora R4/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.02-18.06.28:419][  0]LogInit: Texture streaming: Enabled
+[2018.12.02-18.06.28:522][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.02-18.06.28:554][  0]LogInit: Transaction tracking system initialized
+[2018.12.02-18.06.28:756][  0]BlueprintLog: New page: Editor Load
+[2018.12.02-18.06.30:305][  0]LocalizationService: Localization service is disabled
+[2018.12.02-18.06.32:265][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.02-18.06.32:265][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.02-18.06.32:265][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.02-18.06.32:265][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.02-18.06.32:265][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.02-18.06.32:266][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.02-18.06.32:266][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.02-18.06.33:071][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/CastleRavenloft/CastleRavenloft/Content/' took 0.39s
+[2018.12.02-18.06.35:004][  0]SourceControl: Source control is disabled
+[2018.12.02-18.06.35:004][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.02-18.06.35:004][  0]LightingResults: New page: Lighting Build
+[2018.12.02-18.06.35:006][  0]MapCheck: New page: Map Check
+[2018.12.02-18.06.35:007][  0]LightingResults: New page: Lighting Build
+[2018.12.02-18.06.42:180][  0]LogLinker: Warning: Can't find file '/Game/StaticMeshes/SM_Fireplace'
+[2018.12.02-18.06.42:180][  0]LogLinker: Warning: Can't find file for asset '/Game/StaticMeshes/SM_Fireplace' while loading ../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap.
+[2018.12.02-18.06.42:180][  0]LoadErrors: Error: /Game/Maps/CastleMap : Can't find file for asset. /Game/StaticMeshes/SM_Fireplace
+[2018.12.02-18.06.42:754][  0]LogLinker: Warning: Can't find file '/Game/StaticMeshes/SM_Fireplace'
+[2018.12.02-18.06.42:754][  0]LogLinker: Warning: Can't find file for asset '/Game/StaticMeshes/SM_Fireplace' while loading ../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap.
+[2018.12.02-18.06.42:754][  0]LoadErrors: Error: /Game/Maps/CastleMap : Can't find file for asset. /Game/StaticMeshes/SM_Fireplace
+[2018.12.02-18.06.42:760][  0]LogLinker: Warning: Can't find file '/Game/StaticMeshes/SM_Fireplace'
+[2018.12.02-18.06.42:760][  0]LogLinker: Warning: Can't find file for asset '/Game/StaticMeshes/SM_Fireplace' while loading NULL.
+[2018.12.02-18.06.42:760][  0]LogLinker: Warning: Can't find file '/Game/StaticMeshes/SM_Fireplace'
+[2018.12.02-18.06.42:760][  0]LogLinker: Warning: Can't find file for asset '/Game/StaticMeshes/SM_Fireplace' while loading NULL.
+[2018.12.02-18.06.43:298][  0]LogLinker: Warning: Can't find file '/Game/StaticMeshes/SM_Fireplace'
+[2018.12.02-18.06.43:298][  0]LoadErrors: Failed to load /Game/StaticMeshes/SM_Fireplace.SM_Fireplace Referenced by StaticMeshComponent0
+[2018.12.02-18.06.43:298][  0]LogLinker: Warning: Can't find file for asset '/Game/StaticMeshes/SM_Fireplace' while loading NULL.
+[2018.12.02-18.06.43:298][  0]LoadErrors: Failed to load /Game/StaticMeshes/SM_Fireplace.SM_Fireplace Referenced by StaticMeshComponent0
+[2018.12.02-18.06.44:261][  0]LogTexture: Display: Building textures: TEX_LargeSG_Opacity2 (AutoDXT, 2048X2048)
+[2018.12.02-18.06.44:262][  0]LogTexture: Display: Building textures: TEX_LargeSG_Base_Color (AutoDXT, 2048X2048)
+[2018.12.02-18.06.44:886][  0]LogTexture: Display: Building textures: TEX_LargeSG_Ambient_Occlusion (AutoDXT, 2048X2048)
+[2018.12.02-18.06.44:886][  0]LogTexture: Display: Building textures: TEX_Fog_OPA (AutoDXT, 1024X1024)
+[2018.12.02-18.06.45:017][  0]LogMaterial: Display: Missing cached shader map for material MAT_Fog, compiling. 
+[2018.12.02-18.06.45:423][  0]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.12.02-18.06.45:423][  0]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.12.02-18.06.45:423][  0]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.12.02-18.06.45:423][  0]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.12.02-18.06.45:423][  0]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.12.02-18.06.45:616][  0]LogStaticMesh: Building static mesh LargeStainedGlass...
+[2018.12.02-18.06.45:625][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/LargeStainedGlass.LargeStainedGlass
+[2018.12.02-18.06.47:441][  0]LogMaterial: Display: Missing cached shader map for material Hourglass_MAT, compiling. 
+[2018.12.02-18.06.48:184][  0]LogMaterial: Display: Missing cached shader map for material Large_StainedGlass_MAT, compiling. 
+[2018.12.02-18.06.49:549][  0]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-18.06.51:008][  0]LogShaderCompilers: Display: Shaders left to compile 185
+[2018.12.02-18.06.51:011][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.12.02-18.06.51:111][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.02-18.06.51:317][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 204.995ms to complete.
+[2018.12.02-18.06.51:317][  0]LogFileHelpers: Loading map 'CastleMap' took 16.313
+[2018.12.02-18.06.51:565][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-18.06.51:580][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-18.06.51:594][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-18.06.51:608][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-18.06.51:655][  0]LogCollectionManager: Loaded 0 collections in 0.001607 seconds
+[2018.12.02-18.06.51:704][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/CastleRavenloft/CastleRavenloft/Saved/Collections/' took 0.01s
+[2018.12.02-18.06.51:704][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/CastleRavenloft/CastleRavenloft/Content/Developers/AuroraR4/Collections/' took 0.01s
+[2018.12.02-18.06.51:704][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/CastleRavenloft/CastleRavenloft/Content/Collections/' took 0.01s
+[2018.12.02-18.06.51:704][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.02-18.06.51:724][  0]LogContentBrowser: Native class hierarchy populated in 0.0191 seconds. Added 2572 classes and 603 folders.
+[2018.12.02-18.06.51:732][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.02-18.06.52:720][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.02-18.06.52:766][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.12.02-18.06.53:118][  0]LogSlate: Took 0.027583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.02-18.06.53:152][  0]LogSlate: Took 0.032172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.02-18.06.53:174][  0]LogSlate: Took 0.012946 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.02-18.06.53:440][  0]LogRenderer: Reallocating scene render targets to support 1552x840 Format 10 NumSamples 1 (Frame:1).
+[2018.12.02-18.06.54:102][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.02-18.06.54:102][  0]LogLoad: (Engine Initialization) Total time: 67.22 seconds
+[2018.12.02-18.06.54:102][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.02-18.06.54:170][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.02-18.06.54:191][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-18.06.54:727][  5]LogShaderCompilers: Display: Shaders left to compile 175
+[2018.12.02-18.06.54:727][  5]LogShaderCompilers: Display: Shaders left to compile 165
+[2018.12.02-18.06.54:753][  5]LogAssetRegistry: Asset discovery search completed in 43.1509 seconds
+[2018.12.02-18.06.54:757][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.02-18.06.54:758][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000150 seconds (updated 0 objects)
+[2018.12.02-18.06.57:865][ 59]LogShaderCompilers: Display: Shaders left to compile 155
+[2018.12.02-18.06.58:340][ 66]LogShaderCompilers: Display: Shaders left to compile 145
+[2018.12.02-18.06.59:410][ 82]LogFileCache: Retrieving MD5 hashes for directory 'D:/GitHub/CastleRavenloft/CastleRavenloft/Content/' took 5.28s
+[2018.12.02-18.06.59:713][ 87]LogShaderCompilers: Display: Shaders left to compile 135
+[2018.12.02-18.07.02:098][124]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.12.02-18.07.03:708][148]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.12.02-18.07.04:032][153]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.12.02-18.07.05:009][168]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.12.02-18.07.19:307][373]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.12.02-18.07.21:684][416]LogSlate: Window 'Message Log' being destroyed
+[2018.12.02-18.07.21:694][416]LogSlate: Window 'Message Log' being destroyed
+[2018.12.02-18.07.25:095][468]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.12.02-18.07.28:954][516]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.12.02-18.07.29:937][530]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.02-18.07.41:716][760]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-18.07.44:711][801]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-18.07.45:117][805]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-18.07.51:837][896]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-18.07.51:883][897]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.02-18.42.18:495][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-18.42.28:342][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-18.42.39:297][769]MapCheck: New page: Map Check
+[2018.12.02-18.42.39:314][769]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-18.42.39:317][769]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.02-18.42.39:318][769]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.02-18.46.59:605][769]LogEditorServer: Cleared 3 NULL BSP materials after rebuild.
+[2018.12.02-18.46.59:606][769]LightingResults: New page: Lighting Build - Dec 2, 2018, 8:46:59 AM
+[2018.12.02-18.47.00:488][769]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.02-18.47.00:666][769]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.02-18.47.00:686][769]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.02-18.47.01:717][769]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.02-18.47.01:717][769]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9896
+[2018.12.02-18.47.06:186][769]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.12.02-18.47.06:250][769]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.02-18.47.06:250][769]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.02-18.47.06:250][769]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.02-18.47.06:250][769]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.02-18.47.06:250][769]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.02-18.47.07:188][769]LogEditorBuildUtils: Build time 4:27
+[2018.12.02-18.47.07:217][769]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Large_StainedGlass_MAT, compiling. 
+[2018.12.02-18.47.07:225][769]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.02-18.47.07:225][769]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Large_StainedGlass_MAT, compiling. 
+[2018.12.02-18.47.07:258][770]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.02-18.47.07:300][770]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer StoneBricksLarge_MAT, compiling. 
+[2018.12.02-18.47.07:307][770]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.02-18.47.07:307][770]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer StoneBricksLarge_MAT, compiling. 
+[2018.12.02-18.47.07:338][770]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.02-18.47.10:575][780]LogSlate: Took 0.020378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.02-18.47.10:644][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleMap" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Maps/CastleMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.12.02-18.47.16:234][780]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/CastleMap_Auto19F045F7349F24D1E92C1A8AB2321CFCE.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Maps/CastleMap_Auto1.umap'
+[2018.12.02-18.47.16:279][780]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CastleMap' took 5.663
+[2018.12.02-18.47.16:279][780]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.663
+[2018.12.02-18.47.27:756][815]LightingResults: Warning: Table Object has overlapping UVs.
+[2018.12.02-18.47.27:756][815]LightingResults: Table Lightmap UV are overlapping by 5.1%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.36:162][840]LightingResults: Warning: Table Object has overlapping UVs.
+[2018.12.02-18.47.36:162][840]LightingResults: Table Lightmap UV are overlapping by 5.1%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.37:544][844]LightingResults: Warning: WineGlass2 Object has overlapping UVs.
+[2018.12.02-18.47.37:544][844]LightingResults: WineGlass2 Lightmap UV are overlapping by 6.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.38:863][848]LightingResults: Warning: Table Object has overlapping UVs.
+[2018.12.02-18.47.38:863][848]LightingResults: Table Lightmap UV are overlapping by 5.1%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.47:931][875]LightingResults: Warning: Table Object has overlapping UVs.
+[2018.12.02-18.47.47:931][875]LightingResults: Table Lightmap UV are overlapping by 5.1%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.49:612][880]LightingResults: Warning: Table Object has overlapping UVs.
+[2018.12.02-18.47.49:612][880]LightingResults: Table Lightmap UV are overlapping by 5.1%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.50:297][882]LightingResults: Warning: SM_Throne Object has overlapping UVs.
+[2018.12.02-18.47.50:297][882]LightingResults: SM_Throne Lightmap UV are overlapping by 9.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.51:647][886]LightingResults: Warning: Table Object has overlapping UVs.
+[2018.12.02-18.47.51:647][886]LightingResults: Table Lightmap UV are overlapping by 5.1%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.55:327][897]LightingResults: Warning: SM_Chapel_Structure Object has overlapping UVs.
+[2018.12.02-18.47.55:327][897]LightingResults: SM_Chapel_Structure Lightmap UV are overlapping by 3.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.55:671][898]LightingResults: Warning: Balcony_Railing_NoBend_ Object has overlapping UVs.
+[2018.12.02-18.47.55:672][898]LightingResults: Balcony_Railing_NoBend_ Lightmap UV are overlapping by 6.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.55:672][898]LightingResults: Warning: Balcony_Railing_NoBend_ Object has overlapping UVs.
+[2018.12.02-18.47.55:672][898]LightingResults: Balcony_Railing_NoBend_ Lightmap UV are overlapping by 6.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.56:024][899]LightingResults: Warning: Balcony_Railing_NoBend_ Object has overlapping UVs.
+[2018.12.02-18.47.56:024][899]LightingResults: Balcony_Railing_NoBend_ Lightmap UV are overlapping by 6.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.56:024][899]LightingResults: Warning: Balcony_Railing_NoBend_ Object has overlapping UVs.
+[2018.12.02-18.47.56:024][899]LightingResults: Balcony_Railing_NoBend_ Lightmap UV are overlapping by 6.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.56:672][901]LightingResults: Warning: Balcony_Railing_NoBend_ Object has overlapping UVs.
+[2018.12.02-18.47.56:672][901]LightingResults: Balcony_Railing_NoBend_ Lightmap UV are overlapping by 6.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.57:702][904]LightingResults: Warning: Balcony_Railing_NoBend_ Object has overlapping UVs.
+[2018.12.02-18.47.57:702][904]LightingResults: Balcony_Railing_NoBend_ Lightmap UV are overlapping by 6.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.58:035][905]LightingResults: Warning: Balcony_Railing_NoBend_ Object has overlapping UVs.
+[2018.12.02-18.47.58:035][905]LightingResults: Balcony_Railing_NoBend_ Lightmap UV are overlapping by 6.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.58:035][905]LightingResults: Warning: Table Object has overlapping UVs.
+[2018.12.02-18.47.58:035][905]LightingResults: Table Lightmap UV are overlapping by 5.1%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.59:702][910]LightingResults: Warning: Table Object has overlapping UVs.
+[2018.12.02-18.47.59:702][910]LightingResults: Table Lightmap UV are overlapping by 5.1%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.47.59:702][910]LightingResults: Warning: Table Object has overlapping UVs.
+[2018.12.02-18.47.59:702][910]LightingResults: Table Lightmap UV are overlapping by 5.1%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.48.03:745][922]Job is a success!
+[2018.12.02-18.48.03:754][922]LightingResults: Warning: SM_OrganSculptures Object has overlapping UVs.
+[2018.12.02-18.48.03:754][922]LightingResults: SM_OrganSculptures Lightmap UV are overlapping by 90.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.02-18.48.04:256][923]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.123s
+[2018.12.02-18.48.04:256][923]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.12.02-18.48.04:256][923]LogVolumetricLightmapImport:      BrickData 790x5x5 = 0.7Mb (trimmed 5.4Mb due to 0.010000 MinBrickError)
+[2018.12.02-18.48.04:256][923]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.02-18.48.04:256][923]LogVolumetricLightmapImport:          0: 5.1% covering 100.0% of volume
+[2018.12.02-18.48.04:256][923]LogVolumetricLightmapImport:          1: 49.4% covering 15.2% of volume
+[2018.12.02-18.48.04:256][923]LogVolumetricLightmapImport:          2: 45.6% covering 0.2% of volume
+[2018.12.02-18.48.10:349][923]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.12.02-18.48.10:349][923]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.12.02-18.48.10:349][923]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.12.02-18.48.10:349][923]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.12.02-18.48.10:349][923]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.12.02-18.48.10:349][923]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.12.02-18.48.10:349][923]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2018.12.02-18.48.10:349][923]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2018.12.02-18.48.10:349][923]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2018.12.02-18.48.10:349][923]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2018.12.02-18.48.10:349][923]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2018.12.02-18.48.10:349][923]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2018.12.02-18.48.10:349][923]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2018.12.02-18.48.10:349][923]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2018.12.02-18.48.10:549][923]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 64X64)
+[2018.12.02-18.48.10:549][923]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2018.12.02-18.48.10:689][923]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2018.12.02-18.48.10:824][923]Lightmass on DESKTOP-TRDEAJO: 1:00 min total, 1.71 sec importing, 577 ms setup, 14.7 sec photons, 43.5 sec processing, 0 ms extra exporting [6092/6092 mappings]. Threads: 5:04 min total, 3:03 min processing.
+[2018.12.02-18.48.12:473][923]LogStaticLightingSystem: Illumination: 1:12 min (2.73 sec encoding lightmaps, 336 ms encoding shadowmaps)
+[2018.12.02-18.48.12:473][923]LogStaticLightingSystem: Lightmap texture memory:  14.0 MB (8.0 MB streaming, 6.0 MB non-streaming), 14 textures
+[2018.12.02-18.48.12:473][923]LogStaticLightingSystem: Shadowmap texture memory: 8.0 MB (0.0 MB streaming, 8.0 MB non-streaming), 3 textures
+[2018.12.02-18.48.16:341][923]DumpUnbuiltLightIteractions
+[2018.12.02-18.48.16:341][923]Lights with unbuilt interactions: 0
+[2018.12.02-18.48.16:341][923]
+[2018.12.02-18.48.16:341][923]Primitives with unbuilt interactions: 0
+[2018.12.02-18.48.16:543][924]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.02-18.48.16:543][924]MapCheck: New page: CastleMap - Dec 2, 2018, 8:48:16 AM
+[2018.12.02-18.48.16:610][924]MapCheck: Warning: SM_Fireplace_5 Static mesh actor has NULL StaticMesh property 
+[2018.12.02-18.48.16:611][924]MapCheck: Warning: SM_Fireplace_5 Static mesh actor SM_Fireplace_5 has NULL StaticMesh property 
+[2018.12.02-18.48.16:617][924]MapCheck: Warning: SM_Moldings_Corner_6 Static mesh actor has NULL StaticMesh property 
+[2018.12.02-18.48.16:617][924]MapCheck: Warning: SM_Moldings_Corner_6 Static mesh actor SM_Moldings_Corner_6 has NULL StaticMesh property 
+[2018.12.02-18.48.16:619][924]MapCheck: Warning: SM_Rug_Large_20 Static mesh actor has NULL StaticMesh property 
+[2018.12.02-18.48.16:619][924]MapCheck: Warning: SM_Rug_Large_20 Static mesh actor SM_Rug_Large_20 has NULL StaticMesh property 
+[2018.12.02-18.48.16:779][924]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 235.705ms to complete.
+[2018.12.02-18.48.18:541][938]LogSlate: Window 'Message Log' being destroyed
+[2018.12.02-18.48.18:545][938]LogSlate: Window 'Message Log' being destroyed
+[2018.12.02-18.48.59:251][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-18.49.00:761][653]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-18.49.02:695][653]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CastleRavenloft
+[2018.12.02-18.49.02:695][653]LogTemp: CWD: D:\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.12.02-18.49.02:695][653]LogTemp: Initial Dir: D:\Epic Games\UE_4.20
+[2018.12.02-18.49.02:695][653]LogTemp: Env CWD: D:\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.12.02-18.49.02:695][653]LogTemp: BranchPath = DESKTOP-TRDEAJO/D/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-TRDEAJO/D/Epic Games/UE_4.20/Engine/Binaries
+[2018.12.02-18.49.02:695][653]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.02-18.49.02:831][654]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Aurora R4\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.02-18.50.12:169][894]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.02-18.50.12:173][894]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.02-18.50.20:058][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-18.53.13:062][214]LogEditorViewport: Clicking on Actor (LMB): PointLight (Phil_Light7)
+[2018.12.02-18.53.14:895][289]Cmd: SELECT NONE
+[2018.12.02-18.54.15:884][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-18.54.32:762][ 85]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonController/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2018.12.02-18.54.33:638][ 85]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.12.02-18.54.35:495][ 85]LogSlate: Took 0.026808 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.02-18.54.36:089][ 86]LogSlate: Took 0.005676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.02-18.54.40:704][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-18.56.03:305][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-18.56.13:609][405]LogTexture: Display: Building textures: TEX_Lantern_Base_Metallic (AutoDXT, 2048X2048)
+[2018.12.02-18.56.13:609][405]LogTexture: Display: Building textures: TEX_Lantern_Base_Roughness (AutoDXT, 2048X2048)
+[2018.12.02-18.56.13:609][405]LogTexture: Display: Building textures: TEX_Lantern_Base_Normal (BC5, 2048X2048)
+[2018.12.02-18.56.13:609][405]LogTexture: Display: Building textures: TEX_Lantern_Base_Base_Color (AutoDXT, 2048X2048)
+[2018.12.02-18.56.13:609][405]LogMaterial: Display: Missing cached shader map for material MAT_Lantern, compiling. 
+[2018.12.02-18.56.13:681][405]LogSkeletalMesh: Building Skeletal Mesh SKEL_Lantern...
+[2018.12.02-18.56.13:718][405]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.02-18.56.13:718][405]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.02-18.56.13:718][405]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-18.56.13:718][405]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-18.56.13:718][405]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Skeletal/Lantern/SKEL_Lantern.SKEL_Lantern
+[2018.12.02-18.56.13:739][405]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Skeletal/Lantern/SKEL_Lantern.SKEL_Lantern
+[2018.12.02-18.56.13:849][405]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.02-18.56.14:381][405]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.02-18.56.14:405][405]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.12.02-18.56.14:648][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.02-18.56.15:903][405]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.12.02-18.56.15:955][406]LogRenderer: Reallocating scene render targets to support 1552x1288 Format 10 NumSamples 1 (Frame:1).
+[2018.12.02-18.56.17:116][417]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-18.56.17:724][425]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.02-18.56.21:260][498]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-18.56.30:979][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-18.56.37:701][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-18.56.37:934][136]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Skeletal/Lantern/ANIM_Lantern_run.ANIM_Lantern_run
+[2018.12.02-18.56.37:946][136]LogAnimationCompression: Recompressing (AnimSequence /Game/Skeletal/Lantern/ANIM_Lantern_run.ANIM_Lantern_run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.02-18.56.37:966][136]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Skeletal/Lantern/ANIM_Lantern_run.ANIM_Lantern_run
+[2018.12.02-18.56.38:016][136]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.02-18.56.38:073][136]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.02-18.56.38:680][136]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.02-18.56.45:377][358]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-18.56.46:425][419]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Skeletal/Lantern/ANIM_Lantern_idle.ANIM_Lantern_idle
+[2018.12.02-18.56.46:425][419]LogAnimationCompression: Recompressing (AnimSequence /Game/Skeletal/Lantern/ANIM_Lantern_idle.ANIM_Lantern_idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.02-18.56.46:439][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-18.56.46:443][419]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Skeletal/Lantern/ANIM_Lantern_idle.ANIM_Lantern_idle
+[2018.12.02-18.56.52:822][707]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Skeletal/Lantern/ANIM_Lantern_off.ANIM_Lantern_off
+[2018.12.02-18.56.52:822][707]LogAnimationCompression: Recompressing (AnimSequence /Game/Skeletal/Lantern/ANIM_Lantern_off.ANIM_Lantern_off) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.02-18.56.52:841][707]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Skeletal/Lantern/ANIM_Lantern_off.ANIM_Lantern_off
+[2018.12.02-18.56.56:402][857]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Skeletal/Lantern/ANIM_Lantern_on.ANIM_Lantern_on
+[2018.12.02-18.56.56:402][857]LogAnimationCompression: Recompressing (AnimSequence /Game/Skeletal/Lantern/ANIM_Lantern_on.ANIM_Lantern_on) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.02-18.56.56:418][857]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Skeletal/Lantern/ANIM_Lantern_on.ANIM_Lantern_on
+[2018.12.02-18.58.02:358][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleMap" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Maps/CastleMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.12.02-18.58.06:235][589]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/CastleMap_Auto27AE82DBB4CF8CE52DBF9AF9659B756D3.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Maps/CastleMap_Auto2.umap'
+[2018.12.02-18.58.06:242][589]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CastleMap' took 4.360
+[2018.12.02-18.58.06:242][589]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.360
+[2018.12.02-18.58.06:246][589]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonController/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.12.02-18.58.06:246][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonController/Blueprints/FirstPersonCharacter]
+[2018.12.02-18.58.06:458][589]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/FirstPersonCharacter_Auto2FBBD78944B564B1597D3B498A492F339.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/FirstPersonController/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2018.12.02-18.58.06:505][589]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/CastleMap_BuiltData] ([1] browsable assets)...
+[2018.12.02-18.58.06:505][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/CastleMap_BuiltData]
+[2018.12.02-18.58.06:693][589]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/CastleMap_BuiltData_Auto297DA750240BB40D6DE6168A3787026F3.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Maps/CastleMap_BuiltData_Auto2.uasset'
+[2018.12.02-18.58.06:704][589]LogFileHelpers: Auto-saving content packages took 0.460
+[2018.12.02-18.58.09:033][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-18.58.19:732][107]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Actors/BC_Candelabra_Large.BC_Candelabra_Large
+[2018.12.02-18.59.11:535][667]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.12.02-18.59.11:535][667]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.12.02-18.59.11:535][667]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.12.02-18.59.11:535][667]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.12.02-19.00.01:569][  4]BlueprintLog: New page: Compile BC_Candelabra_Large
+[2018.12.02-19.00.03:044][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Candelabra_Large" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Candelabra_Large.uasset" SILENT=true
+[2018.12.02-19.00.03:108][ 32]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_Candelabra_LargeEAEB45894D443FD3BC14EB83E00527FD.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Candelabra_Large.uasset'
+[2018.12.02-19.00.07:471][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.00.11:975][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.00.12:085][404]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-19.00.12:132][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.00.12:132][404]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.02-19.00.12:208][404]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.12.02-19.00.12:605][404]LogPlayLevel: PlayLevel: Blueprint regeneration took 472 ms (1 blueprints)
+[2018.12.02-19.00.12:644][404]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 9:00:12 AM)
+[2018.12.02-19.00.12:654][404]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.02-19.00.13:140][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.486025s)
+[2018.12.02-19.00.13:140][404]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-19.00.13:150][404]LogPlayLevel: PIE: World Init took: (0.009880s)
+[2018.12.02-19.00.13:157][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.503809s)
+[2018.12.02-19.00.13:216][404]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-19.00.13:387][404]LogInit: FAudioDevice initialized.
+[2018.12.02-19.00.13:448][404]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.02-19.00.13:543][404]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-14.00.13
+[2018.12.02-19.00.13:585][404]LogWorld: Bringing up level for play took: 0.125451
+[2018.12.02-19.00.13:683][404]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.12.02-19.00.13:792][404]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 1.306
+[2018.12.02-19.00.13:793][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.00.43:094][145]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.00.43:106][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.00.43:199][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-19.00.43:200][145]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.00.43:274][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.00.43:373][146]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.12.02-19.00.44:369][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.01.12:817][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.01.13:078][703]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Actors/BC_Candelabra_Large.BC_Candelabra_Large
+[2018.12.02-19.01.33:119][427]BlueprintLog: New page: Compile BC_Candelabra_Large
+[2018.12.02-19.01.34:038][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Candelabra_Large" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Candelabra_Large.uasset" SILENT=true
+[2018.12.02-19.01.34:067][445]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_Candelabra_Large8B2ED3CC4F53BB0F302D48B67123F6E2.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Candelabra_Large.uasset'
+[2018.12.02-19.01.35:271][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.01.36:242][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.01.36:327][539]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-19.01.36:369][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.01.36:369][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-19.01.36:370][539]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 9:01:36 AM)
+[2018.12.02-19.01.36:370][539]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.02-19.01.36:839][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.469319s)
+[2018.12.02-19.01.36:840][539]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-19.01.36:840][539]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.12.02-19.01.36:841][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.470746s)
+[2018.12.02-19.01.36:888][539]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-19.01.37:066][539]LogInit: FAudioDevice initialized.
+[2018.12.02-19.01.37:112][539]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.02-19.01.37:186][539]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-14.01.37
+[2018.12.02-19.01.37:200][539]LogWorld: Bringing up level for play took: 0.087188
+[2018.12.02-19.01.37:218][539]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 0.732
+[2018.12.02-19.01.37:218][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.01.37:263][540]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.055981 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2018.12.02-19.01.46:149][ 71]LogScript: Warning: Accessed None trying to read property ObjectGrabbed
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_CastleMap.CastleMap:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonController/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:16BA
+[2018.12.02-19.01.46:150][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ObjectGrabbed". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set All Physics Linear Velocity
+[2018.12.02-19.01.46:150][ 71]LogScript: Warning: Accessed None trying to read property ObjectGrabbed
+	FirstPersonCharacter_C /Game/Maps/UEDPIE_0_CastleMap.CastleMap:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonController/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:170E
+[2018.12.02-19.01.46:150][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ObjectGrabbed". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set All Physics Linear Velocity
+[2018.12.02-19.02.11:519][624]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.02.11:520][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.02.11:601][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-19.02.11:602][624]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.02.11:650][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.02.11:745][625]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.12.02-19.02.15:198][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.09.13:304][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleMap" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Maps/CastleMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.12.02-19.09.17:054][725]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/CastleMap_Auto3F3E4B20B49CE8664B9D1519630986D1E.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Maps/CastleMap_Auto3.umap'
+[2018.12.02-19.09.17:061][725]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CastleMap' took 3.795
+[2018.12.02-19.09.17:061][725]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.795
+[2018.12.02-19.09.17:064][725]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonController/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.12.02-19.09.17:064][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonController/Blueprints/FirstPersonCharacter]
+[2018.12.02-19.09.17:241][725]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/FirstPersonCharacter_Auto3670C0061496C6064DF3B9A910BFD01E9.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/FirstPersonController/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2018.12.02-19.09.17:241][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actors/BC_Candelabra_Large] ([1] browsable assets)...
+[2018.12.02-19.09.17:309][725]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/BC_Candelabra_Large.BC_Candelabra_Large]
+[2018.12.02-19.09.17:309][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/BC_Candelabra_Large]
+[2018.12.02-19.09.17:343][725]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_Candelabra_Large_Auto3F549F9D1487CC3B7B74D298D94FB4781.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Actors/BC_Candelabra_Large_Auto3.uasset'
+[2018.12.02-19.09.17:343][725]LogFileHelpers: Auto-saving content packages took 0.280
+[2018.12.02-19.11.09:972][ 62]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.12.02-19.30.39:061][965]BlueprintLog: New page: Compile BC_Candelabra_Large
+[2018.12.02-19.30.39:902][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Candelabra_Large" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Candelabra_Large.uasset" SILENT=true
+[2018.12.02-19.30.39:938][980]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_Candelabra_Large175F142B4BDD8B93E2F165A115894AF1.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Candelabra_Large.uasset'
+[2018.12.02-19.30.40:931][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.30.42:248][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.30.42:359][ 92]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-19.30.42:404][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.30.42:404][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-19.30.42:405][ 92]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 9:30:42 AM)
+[2018.12.02-19.30.42:405][ 92]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.02-19.30.42:875][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.469862s)
+[2018.12.02-19.30.42:876][ 92]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-19.30.42:876][ 92]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2018.12.02-19.30.42:876][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.471298s)
+[2018.12.02-19.30.42:926][ 92]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-19.30.43:105][ 92]LogInit: FAudioDevice initialized.
+[2018.12.02-19.30.43:136][ 92]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.02-19.30.43:194][ 92]PIE: Warning: Invalid Simulate Options: Body (BC_Candelabra_Large2_5.Geometry TallCandelabra) is set to simulate physics but Collision Enabled is incompatible
+[2018.12.02-19.30.43:194][ 92]PIE: Warning: Invalid Simulate Options: Body (BC_Candelabra_Large2_5.Geometry TallCandelabra) is set to simulate physics but Collision Enabled is incompatible
+[2018.12.02-19.30.43:194][ 92]PIE: Warning: Invalid Simulate Options: Body (BC_Candelabra_Large_2.Geometry TallCandelabra) is set to simulate physics but Collision Enabled is incompatible
+[2018.12.02-19.30.43:194][ 92]PIE: Warning: Invalid Simulate Options: Body (BC_Candelabra_Large_2.Geometry TallCandelabra) is set to simulate physics but Collision Enabled is incompatible
+[2018.12.02-19.30.43:209][ 92]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-14.30.43
+[2018.12.02-19.30.43:223][ 92]LogWorld: Bringing up level for play took: 0.086008
+[2018.12.02-19.30.43:242][ 92]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 0.757
+[2018.12.02-19.30.43:243][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.30.43:288][ 93]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.056331 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2018.12.02-19.30.49:132][460]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.30.49:132][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.30.49:220][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-19.30.49:220][460]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.30.49:269][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.30.49:365][461]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.12.02-19.30.54:194][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TallCandelabra6)
+[2018.12.02-19.30.56:123][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.31.03:443][  4]BlueprintLog: New page: Compile BC_Candelabra_Large
+[2018.12.02-19.31.04:198][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Candelabra_Large" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Candelabra_Large.uasset" SILENT=true
+[2018.12.02-19.31.04:227][ 15]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_Candelabra_Large5D8CA9F946F22713F555A882ABF82F1D.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Candelabra_Large.uasset'
+[2018.12.02-19.31.04:622][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.31.48:701][413]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/FirstPersonCharacter22B5CB58458502EC16CFABB4CC331F5F.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Blueprints/FirstPersonCharacter.uasset'
+[2018.12.02-19.31.51:842][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.32.01:365][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.32.01:470][846]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-19.32.01:506][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.01:507][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-19.32.01:507][846]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 9:32:01 AM)
+[2018.12.02-19.32.01:507][846]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.02-19.32.01:969][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.462190s)
+[2018.12.02-19.32.01:970][846]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-19.32.01:970][846]LogPlayLevel: PIE: World Init took: (0.001343s)
+[2018.12.02-19.32.01:970][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.463959s)
+[2018.12.02-19.32.02:018][846]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-19.32.02:186][846]LogInit: FAudioDevice initialized.
+[2018.12.02-19.32.02:218][846]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.02-19.32.02:301][846]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-14.32.02
+[2018.12.02-19.32.02:317][846]LogWorld: Bringing up level for play took: 0.097622
+[2018.12.02-19.32.02:337][846]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap -0.148
+[2018.12.02-19.32.02:337][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.02:380][847]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.055064 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2018.12.02-19.32.10:684][346]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.10:685][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.32.10:764][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-19.32.10:765][346]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.10:808][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.32.10:891][347]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.12.02-19.32.12:512][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.32.12:596][419]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-19.32.12:636][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.12:636][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-19.32.12:636][419]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 9:32:12 AM)
+[2018.12.02-19.32.12:636][419]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.02-19.32.13:095][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.458767s)
+[2018.12.02-19.32.13:096][419]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-19.32.13:096][419]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2018.12.02-19.32.13:096][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.459915s)
+[2018.12.02-19.32.13:141][419]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-19.32.13:305][419]LogInit: FAudioDevice initialized.
+[2018.12.02-19.32.13:335][419]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.02-19.32.13:410][419]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-14.32.13
+[2018.12.02-19.32.13:422][419]LogWorld: Bringing up level for play took: 0.086035
+[2018.12.02-19.32.13:436][419]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1927.456 Y=-70.684 Z=5317.398] for [FirstPersonCharacter_C]
+[2018.12.02-19.32.13:436][419]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type FirstPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 37.692638 Roll 0.000000
+Translation: 1927.455811 -70.684052 5317.398438
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.12.02-19.32.13:439][419]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 0.954
+[2018.12.02-19.32.13:440][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.14:651][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.14:652][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.32.14:729][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-19.32.14:729][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.14:768][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.32.14:838][495]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.12.02-19.32.28:568][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.32.28:681][ 67]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-19.32.28:719][ 67]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.28:720][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-19.32.28:720][ 67]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 9:32:28 AM)
+[2018.12.02-19.32.28:720][ 67]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.02-19.32.29:188][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.467012s)
+[2018.12.02-19.32.29:188][ 67]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-19.32.29:189][ 67]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2018.12.02-19.32.29:189][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.468403s)
+[2018.12.02-19.32.29:230][ 67]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-19.32.29:399][ 67]LogInit: FAudioDevice initialized.
+[2018.12.02-19.32.29:431][ 67]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.02-19.32.29:508][ 67]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-14.32.29
+[2018.12.02-19.32.29:522][ 67]LogWorld: Bringing up level for play took: 0.089639
+[2018.12.02-19.32.29:541][ 67]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 1.055
+[2018.12.02-19.32.29:541][ 67]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.36:426][463]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.36:426][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.32.36:512][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-19.32.36:513][463]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.36:553][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.32.36:634][464]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.12.02-19.32.41:078][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TallCandelabra6)
+[2018.12.02-19.32.42:412][682]Cmd: EDIT COPY
+[2018.12.02-19.32.42:971][706]Cmd: EDIT PASTE
+[2018.12.02-19.32.46:851][870]Cmd: SELECT NONE
+[2018.12.02-19.32.48:125][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.32.48:261][940]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-19.32.48:299][940]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.48:300][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-19.32.48:301][940]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 9:32:48 AM)
+[2018.12.02-19.32.48:301][940]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.02-19.32.48:752][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.450574s)
+[2018.12.02-19.32.48:752][940]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-19.32.48:753][940]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2018.12.02-19.32.48:753][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.452023s)
+[2018.12.02-19.32.48:803][940]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-19.32.48:979][940]LogInit: FAudioDevice initialized.
+[2018.12.02-19.32.49:013][940]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.02-19.32.49:086][940]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-14.32.49
+[2018.12.02-19.32.49:098][940]LogWorld: Bringing up level for play took: 0.083912
+[2018.12.02-19.32.49:116][940]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 0.63
+[2018.12.02-19.32.49:117][940]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.59:982][575]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.32.59:982][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.33.00:065][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-19.33.00:066][575]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.33.00:110][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.33.00:157][576]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.12.02-19.33.03:242][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TallCandelabra7)
+[2018.12.02-19.33.04:202][710]Cmd: DELETE
+[2018.12.02-19.33.04:202][710]Cmd: ACTOR DELETE
+[2018.12.02-19.33.04:393][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.02-19.33.04:429][710]LogEditorActor: Deleted 1 Actors (0.227 secs)
+[2018.12.02-19.33.31:731][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.33.31:833][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-19.33.31:867][ 59]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.33.31:867][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-19.33.31:867][ 59]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 9:33:31 AM)
+[2018.12.02-19.33.31:868][ 59]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.02-19.33.32:294][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.426760s)
+[2018.12.02-19.33.32:295][ 59]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-19.33.32:295][ 59]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2018.12.02-19.33.32:296][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.427977s)
+[2018.12.02-19.33.32:333][ 59]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-19.33.32:493][ 59]LogInit: FAudioDevice initialized.
+[2018.12.02-19.33.32:523][ 59]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.02-19.33.32:594][ 59]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-14.33.32
+[2018.12.02-19.33.32:606][ 59]LogWorld: Bringing up level for play took: 0.082427
+[2018.12.02-19.33.32:624][ 59]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 0.138
+[2018.12.02-19.33.32:624][ 59]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.33.36:820][315]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.33.36:820][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.33.36:894][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-19.33.36:895][315]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.33.36:935][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.33.37:009][316]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.12.02-19.34.13:229][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-19.34.13:277][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleMap" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Maps/CastleMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.12.02-19.34.16:875][164]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/CastleMap_Auto4814F40564DFE397814853BA528923905.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Maps/CastleMap_Auto4.umap'
+[2018.12.02-19.34.16:882][164]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CastleMap' took 3.640
+[2018.12.02-19.34.16:882][164]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.640
+[2018.12.02-19.37.04:799][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-19.37.09:920][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.37.38:406][243]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.02-19.37.47:989][701]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Actors/BC_Lantern.BC_Lantern
+[2018.12.02-19.39.16:943][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Lantern" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Lantern.uasset" SILENT=true
+[2018.12.02-19.39.16:956][174]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_Lantern9AF7BA5246837FD661EB9FBA4C33AEC0.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Lantern.uasset'
+[2018.12.02-19.39.51:292][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.39.51:402][618]BlueprintLog: New page: Compile BC_Lantern
+[2018.12.02-19.39.52:603][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Lantern" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Lantern.uasset" SILENT=true
+[2018.12.02-19.39.52:643][654]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_Lantern8253BD1842949233B0223FB063273347.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Lantern.uasset'
+[2018.12.02-19.40.02:737][ 72]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.12.02-19.40.03:988][ 90]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/FirstPersonCharacter68C27A9B4F8A44BA5E2C979ED187670D.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Blueprints/FirstPersonCharacter.uasset'
+[2018.12.02-19.40.34:118][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.40.34:213][ 15]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.12.02-19.40.35:201][ 26]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/FirstPersonCharacterCC4E32924FB6AD2F32DF3687B2A506AE.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Blueprints/FirstPersonCharacter.uasset'
+[2018.12.02-19.43.26:003][167]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.43.43:347][837]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.43.49:162][ 74]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.46.39:345][315]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CastleMap' took 0.033
+[2018.12.02-19.46.39:347][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actors/BC_Lantern] ([1] browsable assets)...
+[2018.12.02-19.46.39:393][315]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/BC_Lantern.BC_Lantern]
+[2018.12.02-19.46.39:393][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/BC_Lantern]
+[2018.12.02-19.46.39:393][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Lantern" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Actors/BC_Lantern_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.12.02-19.46.39:424][315]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_Lantern_Auto51C72361348AA8897AFF05DA949E1649A.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/Autosaves/Game/Actors/BC_Lantern_Auto5.uasset'
+[2018.12.02-19.46.39:424][315]LogFileHelpers: Auto-saving content packages took 0.078
+[2018.12.02-19.48.54:797][791]BlueprintLog: New page: Compile BC_Lantern
+[2018.12.02-19.48.55:038][791]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.48.55:044][791]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.48.55:578][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Lantern" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Lantern.uasset" SILENT=true
+[2018.12.02-19.48.55:609][812]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_Lantern5AC444004BF78D6B339D39893C5FCFD2.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Lantern.uasset'
+[2018.12.02-19.49.48:232][855]BlueprintLog: New page: Compile BC_Lantern
+[2018.12.02-19.49.48:476][855]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.49.48:487][855]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.49.49:011][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Lantern" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Lantern.uasset" SILENT=true
+[2018.12.02-19.49.49:042][876]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_LanternABDA6A10469157C1EA3A7DBDB2CD12EC.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Lantern.uasset'
+[2018.12.02-19.49.57:467][253]LogEditorTransaction: Undo Move Node
+[2018.12.02-19.49.57:473][253]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.50.03:731][503]BlueprintLog: New page: Compile BC_Lantern
+[2018.12.02-19.50.03:985][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.50.03:993][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_31.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.50.04:395][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Lantern" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Lantern.uasset" SILENT=true
+[2018.12.02-19.50.04:429][517]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_Lantern74FED6CB40006B512CBAC1AC7BDABF76.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Lantern.uasset'
+[2018.12.02-19.50.06:830][641]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-19.50.06:867][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.50.06:867][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-19.50.06:868][641]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 9:50:06 AM)
+[2018.12.02-19.50.06:868][641]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.02-19.50.07:314][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.446162s)
+[2018.12.02-19.50.07:315][641]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-19.50.07:316][641]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2018.12.02-19.50.07:316][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.447753s)
+[2018.12.02-19.50.07:361][641]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-19.50.07:523][641]LogInit: FAudioDevice initialized.
+[2018.12.02-19.50.07:557][641]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.02-19.50.07:637][641]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-14.50.07
+[2018.12.02-19.50.07:652][641]LogWorld: Bringing up level for play took: 0.093561
+[2018.12.02-19.50.07:670][641]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 1.185
+[2018.12.02-19.50.07:671][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.50.27:038][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.50.27:039][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.50.27:118][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-19.50.27:119][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.50.27:159][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.50.27:240][864]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.12.02-19.50.29:522][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.50.29:637][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleMap" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.02-19.50.33:360][986]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/CastleMap649FF0074D68C4FF3748E88AC7569C48.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap'
+[2018.12.02-19.50.33:413][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleMap_BuiltData" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap_BuiltData.uasset" SILENT=true
+[2018.12.02-19.50.34:350][986]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/CastleMap_BuiltData0FE432394BD2F36B7E18EEBC5F8CDB02.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap_BuiltData.uasset'
+[2018.12.02-19.50.40:407][157]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-19.50.40:444][157]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.50.40:444][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-19.50.40:445][157]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 9:50:40 AM)
+[2018.12.02-19.50.40:445][157]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.02-19.50.40:880][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.435904s)
+[2018.12.02-19.50.40:881][157]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-19.50.40:881][157]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2018.12.02-19.50.40:881][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.437275s)
+[2018.12.02-19.50.40:923][157]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-19.50.41:084][157]LogInit: FAudioDevice initialized.
+[2018.12.02-19.50.41:120][157]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.02-19.50.41:184][157]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-14.50.41
+[2018.12.02-19.50.41:197][157]LogWorld: Bringing up level for play took: 0.075833
+[2018.12.02-19.50.41:215][157]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 0.73
+[2018.12.02-19.50.41:216][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.50.47:660][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.50.47:661][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.50.47:737][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-19.50.47:737][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.50.47:785][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.50.47:860][504]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2018.12.02-19.50.49:319][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-19.50.55:032][781]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-19.50.55:932][781]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.02-19.50.56:024][782]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CastleRavenloft
+[2018.12.02-19.50.56:024][782]LogTemp: CWD: D:\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.12.02-19.50.56:024][782]LogTemp: Initial Dir: D:\Epic Games\UE_4.20
+[2018.12.02-19.50.56:025][782]LogTemp: Env CWD: D:\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.12.02-19.50.56:025][782]LogTemp: BranchPath = DESKTOP-TRDEAJO/D/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-TRDEAJO/D/Epic Games/UE_4.20/Engine/Binaries
+[2018.12.02-19.50.56:025][782]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Aurora R4\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.02-19.51.37:043][476]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.02-19.51.38:826][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.52.55:145][939]BlueprintLog: New page: Compile BC_Lantern
+[2018.12.02-19.52.55:388][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_33.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.52.55:395][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.52.55:828][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Lantern" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Lantern.uasset" SILENT=true
+[2018.12.02-19.52.55:877][955]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_Lantern075FCA134EF2E4288844D38AFDE3DAEE.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Lantern.uasset'
+[2018.12.02-19.52.58:476][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.52.58:602][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-19.52.58:639][ 79]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.52.58:640][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-19.52.58:640][ 79]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 9:52:58 AM)
+[2018.12.02-19.52.58:640][ 79]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.02-19.52.59:078][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.437976s)
+[2018.12.02-19.52.59:079][ 79]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-19.52.59:079][ 79]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2018.12.02-19.52.59:080][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.439378s)
+[2018.12.02-19.52.59:122][ 79]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-19.52.59:283][ 79]LogInit: FAudioDevice initialized.
+[2018.12.02-19.52.59:313][ 79]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.02-19.52.59:386][ 79]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-14.52.59
+[2018.12.02-19.52.59:399][ 79]LogWorld: Bringing up level for play took: 0.085189
+[2018.12.02-19.52.59:417][ 79]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 0.931
+[2018.12.02-19.52.59:417][ 79]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.52.59:462][ 80]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.057118 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2018.12.02-19.53.06:311][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.53.06:311][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.53.06:395][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-19.53.06:395][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.53.06:446][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.53.06:524][446]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.12.02-19.53.21:237][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.53.37:541][647]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-19.54.07:036][973]BlueprintLog: New page: Compile BC_Lantern
+[2018.12.02-19.54.07:288][973]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_37.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.54.07:295][973]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_39.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.54.08:838][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-19.54.08:878][ 40]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.54.08:878][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-19.54.08:878][ 40]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 9:54:08 AM)
+[2018.12.02-19.54.08:878][ 40]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.02-19.54.09:319][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.440432s)
+[2018.12.02-19.54.09:320][ 40]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-19.54.09:320][ 40]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2018.12.02-19.54.09:320][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.441626s)
+[2018.12.02-19.54.09:367][ 40]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-19.54.09:541][ 40]LogInit: FAudioDevice initialized.
+[2018.12.02-19.54.09:575][ 40]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.02-19.54.09:646][ 40]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-14.54.09
+[2018.12.02-19.54.09:658][ 40]LogWorld: Bringing up level for play took: 0.083376
+[2018.12.02-19.54.09:677][ 40]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 1.192
+[2018.12.02-19.54.09:678][ 40]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.54.13:723][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.54.13:724][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.54.13:802][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-19.54.13:803][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.54.13:847][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.54.13:928][235]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2018.12.02-19.54.16:528][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.54.20:665][527]BlueprintLog: New page: Compile BC_Lantern
+[2018.12.02-19.54.20:905][527]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_41.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.54.20:912][527]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BC_Lantern_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.02-19.54.21:640][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Lantern" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Lantern.uasset" SILENT=true
+[2018.12.02-19.54.21:670][555]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_LanternD154AFA645FD2FCBED8FF9BDA757BDD6.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Lantern.uasset'
+[2018.12.02-19.54.24:230][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.58.08:475][241]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.12.02-19.58.08:622][241]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Could not find a variable named "IsOn" in 'FirstPersonCharacter_C'.
+Make sure 'FirstPersonCharacter_C' has been compiled for  Set IsOn
+[2018.12.02-19.58.08:622][241]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Could not find a variable named "IsOn" in 'FirstPersonCharacter_C'.
+Make sure 'FirstPersonCharacter_C' has been compiled for  Set IsOn
+[2018.12.02-19.58.08:622][241]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Could not find a variable named "IsOn" in 'FirstPersonCharacter_C'.
+Make sure 'FirstPersonCharacter_C' has been compiled for  Get IsOn
+[2018.12.02-19.58.08:635][241]LogBlueprint: Error: [Compiler FirstPersonCharacter] The property associated with  Is On  could not be found in '/Game/FirstPersonController/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'
+[2018.12.02-19.58.08:638][241]LogBlueprint: Error: [Compiler FirstPersonCharacter] The property associated with  Is On  could not be found in '/Game/FirstPersonController/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'
+[2018.12.02-19.58.08:638][241]LogBlueprint: Error: [Compiler FirstPersonCharacter] The property associated with  Is On  could not be found in '/Game/FirstPersonController/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'
+[2018.12.02-19.58.08:938][241]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [6742.06] Compile of FirstPersonCharacter failed. 3 Fatal Issue(s) 3 Warning(s) [in 463 ms] (/Game/FirstPersonController/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.12.02-19.58.09:726][256]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/FirstPersonCharacterEAC0BD9B48CAE63FDC6669B0EE3CF582.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Blueprints/FirstPersonCharacter.uasset'
+[2018.12.02-19.58.12:280][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.59.16:314][860]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.12.02-19.59.18:206][899]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/FirstPersonCharacter5B3E4E4B4A26658DD4EE518383F0C0C5.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Blueprints/FirstPersonCharacter.uasset'
+[2018.12.02-19.59.18:691][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.59.28:808][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.59.28:897][341]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-19.59.28:933][341]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.59.28:933][341]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.02-19.59.28:935][341]LogPlayLevel: [PlayLevel] Compiling BC_Lantern before play...
+[2018.12.02-19.59.29:165][341]LogPlayLevel: PlayLevel: Blueprint regeneration took 231 ms (1 blueprints)
+[2018.12.02-19.59.29:166][341]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 9:59:29 AM)
+[2018.12.02-19.59.29:166][341]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.02-19.59.29:616][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.450025s)
+[2018.12.02-19.59.29:617][341]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-19.59.29:617][341]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2018.12.02-19.59.29:618][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.451743s)
+[2018.12.02-19.59.29:660][341]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-19.59.29:825][341]LogInit: FAudioDevice initialized.
+[2018.12.02-19.59.29:863][341]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.02-19.59.29:938][341]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-14.59.29
+[2018.12.02-19.59.29:952][341]LogWorld: Bringing up level for play took: 0.088416
+[2018.12.02-19.59.29:970][341]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 1.486
+[2018.12.02-19.59.29:971][341]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.59.30:009][342]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.055047 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2018.12.02-19.59.40:565][971]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.59.40:566][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.59.40:648][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-19.59.40:649][971]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.59.40:691][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-19.59.40:767][972]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2018.12.02-19.59.42:760][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-19.59.51:541][373]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.12.02-19.59.52:571][375]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/FirstPersonCharacterBF4FC04742FA48AF05A420A532F3F392.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/FirstPersonController/Blueprints/FirstPersonCharacter.uasset'
+[2018.12.02-19.59.53:708][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.59.54:664][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-19.59.54:754][474]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.02-19.59.54:787][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-19.59.54:787][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.02-19.59.54:788][474]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 9:59:54 AM)
+[2018.12.02-19.59.54:788][474]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.02-19.59.55:236][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.448226s)
+[2018.12.02-19.59.55:237][474]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.02-19.59.55:237][474]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2018.12.02-19.59.55:237][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.449482s)
+[2018.12.02-19.59.55:280][474]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.02-19.59.55:442][474]LogInit: FAudioDevice initialized.
+[2018.12.02-19.59.55:476][474]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.02-19.59.55:548][474]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-14.59.55
+[2018.12.02-19.59.55:561][474]LogWorld: Bringing up level for play took: 0.084410
+[2018.12.02-19.59.55:580][474]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 1.095
+[2018.12.02-19.59.55:581][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-20.00.06:337][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-20.00.06:337][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-20.00.06:415][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.02-20.00.06:415][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.02-20.00.06:454][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.02-20.00.06:540][149]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2018.12.02-20.00.08:733][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-20.00.08:997][270]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Actors/BC_Lantern.BC_Lantern
+[2018.12.02-20.00.16:609][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-20.00.19:162][623]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.02-20.00.19:167][623]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.12.02-20.00.19:211][623]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.02-20.00.19:339][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.02-20.00.27:133][623]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.473 s
+[2018.12.02-20.00.27:133][623]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.02-20.00.27:133][623]LogOutputDevice: Error: 
+[2018.12.02-20.00.27:133][623]LogOutputDevice: Error: Ensure condition failed: ChildActorTemplate == nullptr [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\ChildActorComponent.cpp] [Line: 105]
+[2018.12.02-20.00.27:133][623]LogOutputDevice: Error: Found unexpected ChildActorTemplate REINST_BC_Lantern_C_207 /Engine/Transient.TRASHCLASS_FirstPersonCharacter_180:BC_Lantern_REMOVED_1C47BE464B84EAD6C83A9E8E266A08D1.BC_Lantern_GEN_VARIABLE_BC_Lantern_C_CAT when ChildActorClass is null
+[2018.12.02-20.00.27:133][623]LogOutputDevice: Error: Stack: 
+[2018.12.02-20.00.27:133][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f5c771f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.02-20.00.27:133][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f59b0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.02-20.00.27:133][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f59cb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.02-20.00.27:133][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f2b0944f UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.02-20.00.27:133][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f52066da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.02-20.00.27:133][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f059175c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.02-20.00.27:133][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f0ab3324 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.02-20.00.27:133][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f0ab0a66 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f01f1068 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f04a2970 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f049cd7f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f21b9c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f1fa94c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f2041db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f2027c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f201b25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa3e1ed1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa3e1e0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa3e1ef4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa3e1dc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa56ce6d41 USER32.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa56ce6713 USER32.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa3e1f05a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f204f2b2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f1fd77c7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f0541156 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f0aa44f0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f0aa38f3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9e1db7962 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9e1ee3247 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9e1ec0fa8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f1fe24df UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f202437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9e1f0eab3 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f1fa70ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f202606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff9f2019846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa3e1ece45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa3e1e0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa3e1ef4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa3e1dc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa56ce6d41 USER32.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa56ce6713 USER32.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa3e1f0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff7e01854e5 UE4Editor.exe!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff7e0195b3c UE4Editor.exe!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff7e0195bba UE4Editor.exe!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff7e01a3dac UE4Editor.exe!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ff7e01a5aaa UE4Editor.exe!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa54353034 KERNEL32.DLL!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: [Callstack] 0x00007ffa56f21471 ntdll.dll!UnknownFunction []
+[2018.12.02-20.00.27:134][623]LogOutputDevice: Error: 
+[2018.12.02-20.00.27:145][623]LogStats:                SubmitErrorReport -  0.007 s
