@@ -1,0 +1,1383 @@
+﻿Log file open, 12/02/18 20:02:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CastleRavenloft
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.281738
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.107s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Core(TM) i7-4820K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX TITAN Z
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.03-01.02.59:927][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-01.02.59:927][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.03-01.02.59:940][  0]LogHAL: Display: Platform has ~ 16 GB [17094057984 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.03-01.02.59:940][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.03-01.02.59:941][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.03-01.02.59:941][  0]LogInit: Computer: DESKTOP-TRDEAJO
+[2018.12.03-01.02.59:941][  0]LogInit: User: AuroraR4
+[2018.12.03-01.02.59:941][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.03-01.02.59:941][  0]LogInit: High frequency timer resolution =3.613277 MHz
+[2018.12.03-01.02.59:941][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.03-01.02.59:941][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.03-01.02.59:941][  0]LogMemory: Process Physical Memory: 102.19 MB used, 102.19 MB peak
+[2018.12.03-01.02.59:941][  0]LogMemory: Process Virtual Memory: 94.53 MB used, 94.53 MB peak
+[2018.12.03-01.02.59:941][  0]LogMemory: Physical Memory: 8822.12 MB used,  7480.05 MB free, 16302.16 MB total
+[2018.12.03-01.02.59:941][  0]LogMemory: Virtual Memory: 4648.61 MB used,  7480.05 MB free, 134217728.00 MB total
+[2018.12.03-01.02.59:954][  0]LogInit: Using OS detected language (en-US).
+[2018.12.03-01.02.59:954][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.03-01.02.59:955][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.03-01.03.00:360][  0]LogStreaming: Display: Took  0.405s to InitEngineTextLocalization.
+[2018.12.03-01.03.00:360][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.03-01.03.00:386][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.03-01.03.00:386][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.03-01.03.00:651][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.03-01.03.00:651][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.03-01.03.00:749][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX TITAN Z' (Feature Level 11_0)
+[2018.12.03-01.03.00:749][  0]LogD3D11RHI:       6035/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.03-01.03.00:751][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.03-01.03.00:751][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.03-01.03.00:751][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.03-01.03.00:762][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.03-01.03.00:762][  0]LogD3D11RHI:     GPU DeviceId: 0x1001 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.03-01.03.00:762][  0]LogWindows: EnumDisplayDevices:
+[2018.12.03-01.03.00:762][  0]LogWindows:    0. 'NVIDIA GeForce GTX TITAN Z' (P:1 D:1)
+[2018.12.03-01.03.00:763][  0]LogWindows:    1. 'NVIDIA GeForce GTX TITAN Z' (P:0 D:1)
+[2018.12.03-01.03.00:763][  0]LogWindows:    2. 'NVIDIA GeForce GTX TITAN Z' (P:0 D:0)
+[2018.12.03-01.03.00:763][  0]LogWindows:    3. 'NVIDIA GeForce GTX TITAN Z' (P:0 D:0)
+[2018.12.03-01.03.00:764][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.03-01.03.00:764][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX TITAN Z
+[2018.12.03-01.03.00:764][  0]LogD3D11RHI:   Driver Version: 398.11 (internal:24.21.13.9811, unified:398.11)
+[2018.12.03-01.03.00:764][  0]LogD3D11RHI:      Driver Date: 6-1-2018
+[2018.12.03-01.03.00:764][  0]LogRHI: Texture pool is 4224 MB (70% of 6035 MB)
+[2018.12.03-01.03.00:836][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.03-01.03.00:863][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 3)
+[2018.12.03-01.03.00:867][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../GitHub/CastleRavenloft/CastleRavenloft/Intermediate/Shaders/WorkingDirectory/4984/).
+[2018.12.03-01.03.00:868][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aurora R4/AppData/Local/Temp/UnrealShaderWorkingDir/A53B02E54C81101C030B85B04572B24E/'.
+[2018.12.03-01.03.01:235][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.03-01.03.01:250][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.03-01.03.01:265][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.03-01.03.01:280][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.03-01.03.01:303][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.03-01.03.01:322][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.03-01.03.01:340][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.03-01.03.01:359][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.03-01.03.01:367][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:476][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-01.03.01:477][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.03-01.03.01:551][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-01.03.01:551][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-01.03.01:584][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-01.03.01:584][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-01.03.01:603][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.03-01.03.01:622][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.03-01.03.01:643][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.03-01.03.01:661][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.03-01.03.01:675][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.03-01.03.01:675][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.03-01.03.01:732][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.03-01.03.01:732][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.03-01.03.01:732][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.03-01.03.02:678][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.03-01.03.02:757][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Aurora R4/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.03-01.03.02:758][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aurora R4/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.03-01.03.02:758][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/CastleRavenloft/CastleRavenloft/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.03-01.03.02:758][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.03-01.03.02:758][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/CastleRavenloft/CastleRavenloft/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.03-01.03.02:758][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.03-01.03.02:773][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.03-01.03.02:786][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aurora R4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.03-01.03.02:786][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.03-01.03.02:786][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.03-01.03.02:810][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.03-01.03.02:812][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.03-01.03.02:812][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.03-01.03.02:903][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2018.12.03-01.03.03:393][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-01.03.03:554][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.03-01.03.03:558][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.03-01.03.03:558][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.03-01.03.03:559][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.03-01.03.03:559][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.03-01.03.03:588][  0]LogNetVersion: CastleRavenloft 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 37006697)
+[2018.12.03-01.03.04:253][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.133571 seconds
+[2018.12.03-01.03.04:263][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.03-01.03.04:263][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.12.03-01.03.04:263][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.03-01.03.05:305][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.03-01.03.05:318][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.03-01.03.05:485][  0]SourceControl: Source control is disabled
+[2018.12.03-01.03.05:485][  0]SourceControl: Source control is disabled
+[2018.12.03-01.03.05:487][  0]SourceControl: Source control is disabled
+[2018.12.03-01.03.05:489][  0]SourceControl: Source control is disabled
+[2018.12.03-01.03.05:677][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.03-01.03.05:761][  0]LogOcInput: OculusInput pre-init called
+[2018.12.03-01.03.05:830][  0]LogEngine: Initializing Engine...
+[2018.12.03-01.03.05:831][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.03-01.03.05:833][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-01.03.05:833][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-01.03.05:833][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-01.03.05:833][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-01.03.06:121][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.03-01.03.06:135][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.03-01.03.06:162][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.03-01.03.06:368][  0]LogInit: FAudioDevice initialized.
+[2018.12.03-01.03.06:368][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.03-01.03.06:451][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Aurora R4/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.03-01.03.06:461][  0]LogInit: Texture streaming: Enabled
+[2018.12.03-01.03.06:482][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.03-01.03.06:498][  0]LogInit: Transaction tracking system initialized
+[2018.12.03-01.03.06:520][  0]BlueprintLog: New page: Editor Load
+[2018.12.03-01.03.06:602][  0]LocalizationService: Localization service is disabled
+[2018.12.03-01.03.06:919][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.03-01.03.06:919][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.03-01.03.06:919][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.03-01.03.06:919][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-01.03.06:919][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-01.03.06:919][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-01.03.06:919][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-01.03.07:070][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/CastleRavenloft/CastleRavenloft/Content/' took 0.02s
+[2018.12.03-01.03.07:070][  0]SourceControl: Source control is disabled
+[2018.12.03-01.03.07:071][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-01.03.07:071][  0]LightingResults: New page: Lighting Build
+[2018.12.03-01.03.07:074][  0]MapCheck: New page: Map Check
+[2018.12.03-01.03.07:074][  0]LightingResults: New page: Lighting Build
+[2018.12.03-01.03.10:493][  0]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.03-01.03.11:607][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-01.03.11:688][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-01.03.11:862][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 174.065ms to complete.
+[2018.12.03-01.03.11:862][  0]LogFileHelpers: Loading map 'CastleMap' took 4.791
+[2018.12.03-01.03.11:977][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.03.11:987][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.03.12:000][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.03.12:012][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.03.12:018][  0]LogCollectionManager: Loaded 0 collections in 0.001232 seconds
+[2018.12.03-01.03.12:062][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/CastleRavenloft/CastleRavenloft/Saved/Collections/' took 0.01s
+[2018.12.03-01.03.12:062][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/CastleRavenloft/CastleRavenloft/Content/Developers/AuroraR4/Collections/' took 0.01s
+[2018.12.03-01.03.12:062][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/CastleRavenloft/CastleRavenloft/Content/Collections/' took 0.01s
+[2018.12.03-01.03.12:062][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.03-01.03.12:080][  0]LogContentBrowser: Native class hierarchy populated in 0.0180 seconds. Added 2572 classes and 603 folders.
+[2018.12.03-01.03.12:086][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.03-01.03.12:144][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.03-01.03.12:150][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.03-01.03.12:358][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.03-01.03.12:362][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.03-01.03.12:370][  0]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.03-01.03.12:515][  0]LogRenderer: Reallocating scene render targets to support 1548x840 Format 10 NumSamples 1 (Frame:1).
+[2018.12.03-01.03.13:277][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.03-01.03.13:277][  0]LogLoad: (Engine Initialization) Total time: 14.97 seconds
+[2018.12.03-01.03.13:277][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.03-01.03.13:343][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.03-01.03.14:128][  4]LogAssetRegistry: Asset discovery search completed in 11.2473 seconds
+[2018.12.03-01.03.14:133][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.03-01.03.14:133][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2018.12.03-01.03.18:758][ 18]LogFileCache: Retrieving MD5 hashes for directory 'D:/GitHub/CastleRavenloft/CastleRavenloft/Content/' took 5.45s
+[2018.12.03-01.08.12:347][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.08.16:718][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.08.22:460][192]Cmd: SELECT NONE
+[2018.12.03-01.08.28:939][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (R_SideTriptych)
+[2018.12.03-01.08.29:666][495]LogEditorViewport: Clicking on Actor (LMB): BC_Candelabra_Large_C (BC_Candelabra_Large2)
+[2018.12.03-01.08.31:538][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.08.39:169][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TallCandelabra5)
+[2018.12.03-01.08.42:546][922]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-01.08.55:647][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.08.55:767][221]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-01.08.55:795][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.08.55:795][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-01.08.55:808][221]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 3:08:55 PM)
+[2018.12.03-01.08.55:808][221]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.03-01.08.56:222][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.413176s)
+[2018.12.03-01.08.56:222][221]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.03-01.08.56:223][221]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2018.12.03-01.08.56:223][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.414618s)
+[2018.12.03-01.08.56:256][221]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.03-01.08.56:424][221]LogInit: FAudioDevice initialized.
+[2018.12.03-01.08.56:486][221]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.03-01.08.56:512][221]PIE: Warning: Invalid Simulate Options: Body (TallCandelabra5.StaticMeshComponent0 TallCandelabra) is set to simulate physics but Collision Enabled is incompatible
+[2018.12.03-01.08.56:512][221]PIE: Warning: Invalid Simulate Options: Body (TallCandelabra5.StaticMeshComponent0 TallCandelabra) is set to simulate physics but Collision Enabled is incompatible
+[2018.12.03-01.08.56:553][221]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-20.08.56
+[2018.12.03-01.08.56:565][221]LogWorld: Bringing up level for play took: 0.076852
+[2018.12.03-01.08.56:581][221]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.12.03-01.08.56:587][221]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 0.102
+[2018.12.03-01.08.56:588][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.09.00:132][379]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.09.00:133][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.09.00:205][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-01.09.00:205][379]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.09.00:239][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.09.00:312][380]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.03-01.09.02:128][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TallCandelabra5)
+[2018.12.03-01.09.03:627][496]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-01.09.11:891][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.09.12:011][751]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-01.09.12:042][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.09.12:042][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-01.09.12:042][751]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 3:09:12 PM)
+[2018.12.03-01.09.12:043][751]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.03-01.09.12:449][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.406602s)
+[2018.12.03-01.09.12:450][751]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.03-01.09.12:450][751]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2018.12.03-01.09.12:450][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.407830s)
+[2018.12.03-01.09.12:482][751]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.03-01.09.12:641][751]LogInit: FAudioDevice initialized.
+[2018.12.03-01.09.12:674][751]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.03-01.09.12:693][751]PIE: Warning: Invalid Simulate Options: Body (TallCandelabra5.StaticMeshComponent0 TallCandelabra) is set to simulate physics but Collision Enabled is incompatible
+[2018.12.03-01.09.12:693][751]PIE: Warning: Invalid Simulate Options: Body (TallCandelabra5.StaticMeshComponent0 TallCandelabra) is set to simulate physics but Collision Enabled is incompatible
+[2018.12.03-01.09.12:734][751]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-20.09.12
+[2018.12.03-01.09.12:746][751]LogWorld: Bringing up level for play took: 0.071389
+[2018.12.03-01.09.12:764][751]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 0.279
+[2018.12.03-01.09.12:764][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.09.12:800][752]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.057618 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2018.12.03-01.09.13:805][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.09.13:806][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.09.13:885][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-01.09.13:885][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.09.13:915][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.09.13:988][791]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.03-01.09.14:952][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TallCandelabra5)
+[2018.12.03-01.09.16:939][901]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-01.10.55:873][454]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-01.10.55:908][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.10.55:908][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-01.10.55:909][454]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 3:10:55 PM)
+[2018.12.03-01.10.55:909][454]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.03-01.10.56:322][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.412971s)
+[2018.12.03-01.10.56:322][454]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.03-01.10.56:323][454]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2018.12.03-01.10.56:323][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.414162s)
+[2018.12.03-01.10.56:355][454]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.03-01.10.56:516][454]LogInit: FAudioDevice initialized.
+[2018.12.03-01.10.56:550][454]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.03-01.10.56:616][454]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-20.10.56
+[2018.12.03-01.10.56:628][454]LogWorld: Bringing up level for play took: 0.076624
+[2018.12.03-01.10.56:646][454]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 0.161
+[2018.12.03-01.10.56:646][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.10.56:686][455]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059597 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2018.12.03-01.11.10:126][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.11.10:126][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.11.10:207][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-01.11.10:207][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.11.10:241][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.11.10:316][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.03-01.11.13:040][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TallCandelabra5)
+[2018.12.03-01.11.15:687][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.11.17:454][408]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-01.11.17:475][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleMap" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.03-01.11.20:891][408]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/CastleMap00DD3BD9464D0881FB42B3BC486C5FA2.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap'
+[2018.12.03-01.11.22:051][462]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-01.11.22:081][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.11.22:081][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-01.11.22:082][462]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 3:11:22 PM)
+[2018.12.03-01.11.22:082][462]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.03-01.11.22:503][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.420535s)
+[2018.12.03-01.11.22:503][462]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.03-01.11.22:503][462]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2018.12.03-01.11.22:504][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.421700s)
+[2018.12.03-01.11.22:536][462]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.03-01.11.22:698][462]LogInit: FAudioDevice initialized.
+[2018.12.03-01.11.22:733][462]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.03-01.11.22:797][462]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-20.11.22
+[2018.12.03-01.11.22:810][462]LogWorld: Bringing up level for play took: 0.075495
+[2018.12.03-01.11.22:829][462]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 0.344
+[2018.12.03-01.11.22:829][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.11.31:902][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.11.31:902][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.11.31:993][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-01.11.31:993][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.11.32:026][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.11.32:105][899]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.03-01.11.33:790][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TallCandelabra5)
+[2018.12.03-01.12.00:938][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.12.11:351][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TallCandelabra3)
+[2018.12.03-01.12.12:808][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-01.12.16:195][649]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-01.12.18:829][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.12.22:412][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TallCandelabra4)
+[2018.12.03-01.12.23:745][  9]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-01.12.36:999][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.12.42:049][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TallCandelabra6)
+[2018.12.03-01.12.43:532][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-01.12.46:200][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.12.52:266][281]LogEditorViewport: Clicking on Actor (LMB): BC_Candelabra_Small_C (BC_Candelabra_Small)
+[2018.12.03-01.12.55:713][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WineGlass9)
+[2018.12.03-01.13.01:098][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WineGlass5)
+[2018.12.03-01.13.02:140][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plate)
+[2018.12.03-01.13.04:173][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Knife12)
+[2018.12.03-01.13.05:899][878]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-01.13.09:578][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.13.18:116][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Spoon15)
+[2018.12.03-01.13.21:113][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.13.28:839][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fork15)
+[2018.12.03-01.13.31:142][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.13.39:857][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WineGlass9)
+[2018.12.03-01.13.41:558][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.13.47:475][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plate8)
+[2018.12.03-01.13.51:759][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.13.52:018][983]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Actors/BC_Candelabra_Small.BC_Candelabra_Small
+[2018.12.03-01.13.52:620][983]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.12.03-01.13.53:728][983]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.03-01.13.56:549][ 93]LogRenderer: Reallocating scene render targets to support 1548x1032 Format 10 NumSamples 1 (Frame:1).
+[2018.12.03-01.13.57:817][135]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.03-01.14.19:691][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Candelabra_Small" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Candelabra_Small.uasset" SILENT=true
+[2018.12.03-01.14.19:720][927]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_Candelabra_Small94AAF98A4759722A1A596289DE87ECE5.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Candelabra_Small.uasset'
+[2018.12.03-01.14.20:259][947]LogSlate: Window 'BC_Candelabra_Small' being destroyed
+[2018.12.03-01.14.21:360][996]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-01.14.21:398][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.14.21:398][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-01.14.21:398][996]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 3:14:21 PM)
+[2018.12.03-01.14.21:398][996]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.03-01.14.21:813][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.414832s)
+[2018.12.03-01.14.21:814][996]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.03-01.14.21:814][996]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2018.12.03-01.14.21:815][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.416250s)
+[2018.12.03-01.14.21:858][996]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.03-01.14.22:022][996]LogInit: FAudioDevice initialized.
+[2018.12.03-01.14.22:058][996]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.03-01.14.22:128][996]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-20.14.22
+[2018.12.03-01.14.22:141][996]LogWorld: Bringing up level for play took: 0.082454
+[2018.12.03-01.14.22:160][996]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 1.675
+[2018.12.03-01.14.22:160][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.14.36:101][730]PIE: Warning: Mobility of /Game/Maps/UEDPIE_0_CastleMap.CastleMap:PersistentLevel.WineGlass3 : StaticMeshComponent0 has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2018.12.03-01.14.41:402][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.14.41:402][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.14.41:482][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-01.14.41:482][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.14.41:522][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.14.41:621][982]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.12.03-01.14.43:519][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.14.48:314][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.14.48:447][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleMap" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.03-01.14.51:933][236]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/CastleMap708639A64031C4D8F3310AB671354474.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap'
+[2018.12.03-01.15.07:323][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.15.07:539][886]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Actors/BC_Candelabra_Large.BC_Candelabra_Large
+[2018.12.03-01.15.20:014][266]LogSlate: Window 'BC_Candelabra_Large' being destroyed
+[2018.12.03-01.15.29:471][650]LogEditorViewport: Clicking on Actor (LMB): PointLight (Phil_Light2)
+[2018.12.03-01.15.30:477][694]Cmd: DELETE
+[2018.12.03-01.15.30:477][694]Cmd: ACTOR DELETE
+[2018.12.03-01.15.30:609][694]LogEditorActor: Deleted Actor: PointLight
+[2018.12.03-01.15.30:636][694]LogEditorActor: Deleted 1 Actors (0.159 secs)
+[2018.12.03-01.15.34:424][851]LogEditorViewport: Clicking on Actor (LMB): PointLight (Phil_Light4)
+[2018.12.03-01.15.36:961][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.15.49:601][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleMap" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.03-01.15.53:082][484]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/CastleMapD38DC9B246DBF3514353AFA992E7D53C.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap'
+[2018.12.03-01.15.54:473][540]Cmd: SELECT NONE
+[2018.12.03-01.16.10:347][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.17.19:270][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.17.24:240][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.17.33:464][951]Cmd: SELECT NONE
+[2018.12.03-01.17.38:075][193]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2018.12.03-01.17.52:101][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.18.29:179][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.18.36:741][228]Cmd: SELECT NONE
+[2018.12.03-01.18.47:767][849]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2018.12.03-01.19.04:029][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.19.39:765][280]Cmd: SELECT NONE
+[2018.12.03-01.19.45:483][612]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2018.12.03-01.19.51:005][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.19.57:775][261]Cmd: SELECT NONE
+[2018.12.03-01.20.03:618][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.20.03:793][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleMap" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.03-01.20.07:268][600]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/CastleMapC1435162497B93E37D811A906227016C.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap'
+[2018.12.03-01.20.58:274][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.20.58:382][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleMap" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.03-01.21.01:879][600]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/CastleMapF870C1814A525048868817AE8B3BB220.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap'
+[2018.12.03-01.21.07:385][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.21.21:549][444]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Skeletal/Doors/SM_1Door_Locked.SM_1Door_Locked
+[2018.12.03-01.21.21:559][444]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.03-01.21.21:767][444]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.03-01.21.21:769][444]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.12.03-01.21.21:832][444]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.03-01.21.22:348][444]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.12.03-01.21.22:372][444]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.03-01.21.25:247][540]LogSlate: Window 'SM_1Door_Locked' being destroyed
+[2018.12.03-01.21.31:208][758]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Skeletal/Doors/ANIM_Jail_Door_Locked.ANIM_Jail_Door_Locked
+[2018.12.03-01.21.31:208][758]LogAnimationCompression: Recompressing (AnimSequence /Game/Skeletal/Doors/ANIM_Jail_Door_Locked.ANIM_Jail_Door_Locked) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.03-01.21.31:237][758]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Skeletal/Doors/ANIM_Jail_Door_Locked.ANIM_Jail_Door_Locked
+[2018.12.03-01.21.31:242][758]LogSkeletalMesh: Building Skeletal Mesh Skel_Jail_Door...
+[2018.12.03-01.21.31:242][758]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Skeletal/Doors/Skel_Jail_Door.Skel_Jail_Door
+[2018.12.03-01.21.31:270][758]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.03-01.21.31:325][758]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.03-01.21.31:804][758]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.03-01.21.33:778][834]LogSlate: Window 'ANIM_Jail_Door_Locked' being destroyed
+[2018.12.03-01.21.35:505][891]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Skeletal/Doors/ANIM_Jail_Door_Closed.ANIM_Jail_Door_Closed
+[2018.12.03-01.21.35:505][891]LogAnimationCompression: Recompressing (AnimSequence /Game/Skeletal/Doors/ANIM_Jail_Door_Closed.ANIM_Jail_Door_Closed) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.03-01.21.35:534][891]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Skeletal/Doors/ANIM_Jail_Door_Closed.ANIM_Jail_Door_Closed
+[2018.12.03-01.21.35:567][891]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.03-01.21.35:620][891]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.03-01.21.36:069][891]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.03-01.21.40:234][ 45]LogSlate: Window 'ANIM_Jail_Door_Closed' being destroyed
+[2018.12.03-01.21.41:199][ 73]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Skeletal/Doors/ANIM_Jail_Door_Open.ANIM_Jail_Door_Open
+[2018.12.03-01.21.41:199][ 73]LogAnimationCompression: Recompressing (AnimSequence /Game/Skeletal/Doors/ANIM_Jail_Door_Open.ANIM_Jail_Door_Open) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.03-01.21.41:227][ 73]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Skeletal/Doors/ANIM_Jail_Door_Open.ANIM_Jail_Door_Open
+[2018.12.03-01.21.41:256][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.03-01.21.41:308][ 73]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.03-01.21.41:773][ 73]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.03-01.21.44:473][171]LogSlate: Window 'ANIM_Jail_Door_Open' being destroyed
+[2018.12.03-01.22.18:448][797]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Actors/BC_Door.BC_Door
+[2018.12.03-01.22.46:443][990]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2499.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.46:444][990]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2501.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.46:446][990]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2503.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.46:448][990]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2505.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.46:450][990]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2507.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.46:451][990]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2509.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.46:453][990]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2511.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.46:456][990]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2513.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.46:459][990]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2515.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.46:461][990]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_1.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.46:462][990]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2517.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.46:465][990]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2519.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.59:375][598]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2521.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.59:377][598]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2523.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.59:378][598]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.59:379][598]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2525.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.59:380][598]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2527.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.59:382][598]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2529.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.59:384][598]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2531.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.59:386][598]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2533.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.59:388][598]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2535.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.59:389][598]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2537.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.59:391][598]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2539.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.22.59:393][598]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2541.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:646][232]BlueprintLog: New page: Compile BC_Door
+[2018.12.03-01.23.13:960][232]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:961][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2543.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:962][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2545.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:965][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2547.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:967][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2549.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:968][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2551.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:969][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2553.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:970][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2555.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:971][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2557.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:972][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2559.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:974][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2561.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:975][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2563.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:984][232]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:986][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2565.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:987][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2567.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:988][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2569.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:990][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2571.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:991][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2573.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:992][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2575.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:994][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2577.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:995][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2579.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:996][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2581.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:998][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2583.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.13:999][232]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2585.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.14:487][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Door" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Door.uasset" SILENT=true
+[2018.12.03-01.23.14:530][249]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_DoorC34C94CB48D207E7E26B12A8038B7D16.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Door.uasset'
+[2018.12.03-01.23.16:035][315]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.16:037][315]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2587.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.16:038][315]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2589.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.16:040][315]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2591.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.16:041][315]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2593.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.16:042][315]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2595.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.16:044][315]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2597.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.16:046][315]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2599.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.16:048][315]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2601.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.16:049][315]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2603.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.16:051][315]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2605.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.23.16:052][315]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2607.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.10:716][691]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.10:717][691]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2609.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.10:719][691]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2611.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.10:720][691]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2613.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.10:722][691]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2615.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.10:723][691]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2617.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.10:725][691]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2619.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.10:726][691]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2621.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.10:727][691]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2623.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.10:730][691]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2625.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.10:732][691]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2627.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.10:734][691]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2629.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:507][724]BlueprintLog: New page: Compile BC_Door
+[2018.12.03-01.24.34:814][724]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:815][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2631.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:817][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2633.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:818][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2635.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:820][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2637.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:821][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2639.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:823][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2641.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:825][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2643.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:827][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2645.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:828][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2647.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:830][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2649.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:831][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2651.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:841][724]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:842][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2653.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:844][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2655.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:845][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2657.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:846][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2659.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:847][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2661.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:848][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2663.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:850][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2665.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:851][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2667.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:852][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2669.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:853][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2671.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.34:854][724]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2673.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.35:952][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Door" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Door.uasset" SILENT=true
+[2018.12.03-01.24.35:991][767]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_DoorC99B50E148631E441BDEB9B2399CAD31.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Door.uasset'
+[2018.12.03-01.24.52:524][514]BlueprintLog: New page: Compile BC_Door
+[2018.12.03-01.24.52:820][514]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:822][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2675.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:823][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2677.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:825][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2679.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:827][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2681.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:828][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2683.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:830][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2685.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:831][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2687.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:833][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2689.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:835][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2691.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:836][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2693.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:838][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2695.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:847][514]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:848][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2697.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:849][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2699.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:851][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2701.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:852][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2703.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:853][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2705.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:855][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2707.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:856][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2709.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:857][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2711.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:858][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2713.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:860][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2715.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.52:861][514]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_2717.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.24.53:464][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Door" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Door.uasset" SILENT=true
+[2018.12.03-01.24.53:503][537]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_Door006298174D261403F232E9A0DF7B00FE.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Door.uasset'
+[2018.12.03-01.25.11:536][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Door" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Door.uasset" SILENT=true
+[2018.12.03-01.25.11:566][377]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_DoorDF4607AC4A1F719E00899FA7D6E4E814.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Door.uasset'
+[2018.12.03-01.25.19:884][748]LogSlate: Window 'BC_Door' being destroyed
+[2018.12.03-01.25.28:994][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.25.38:782][457]LogEditorViewport: Clicking on Actor (LMB): BC_DoorFrame_C (BC_DoorFrame)
+[2018.12.03-01.25.42:117][567]LogEditorViewport: Clicking on Actor (LMB): BC_DoorFrame_C (BC_DoorFrame12)
+[2018.12.03-01.25.48:553][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.25.48:778][821]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Actors/BC_DoorFrame.BC_DoorFrame
+[2018.12.03-01.27.20:096][936]BlueprintLog: New page: Compile BC_DoorFrame
+[2018.12.03-01.27.21:114][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_DoorFrame" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_DoorFrame.uasset" SILENT=true
+[2018.12.03-01.27.21:144][960]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_DoorFrame2884D9E447F9B3D099AB578196A1BFD5.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_DoorFrame.uasset'
+[2018.12.03-01.29.06:782][ 78]BlueprintLog: New page: Compile BC_DoorFrame
+[2018.12.03-01.29.06:791][ 78]LogBlueprint: Warning: [Compiler BC_DoorFrame] 'BC Door' does not inherit from 'Child Actor Component' ( Cast To BC_Door  would always fail).
+[2018.12.03-01.29.07:132][ 78]LogBlueprint: Warning: [Compiler BC_DoorFrame] [1568.83] Compile of BC_DoorFrame successful, but with 1 Warning(s) [in 350 ms] (/Game/Actors/BC_DoorFrame.BC_DoorFrame)
+[2018.12.03-01.29.07:909][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_DoorFrame" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_DoorFrame.uasset" SILENT=true
+[2018.12.03-01.29.07:938][106]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_DoorFrameD439B9C94ADE4C5876021599EAC23887.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_DoorFrame.uasset'
+[2018.12.03-01.29.18:513][538]BlueprintLog: New page: Compile BC_DoorFrame
+[2018.12.03-01.29.18:520][538]LogBlueprint: Warning: [Compiler BC_DoorFrame] 'BC Door' does not inherit from 'Child Actor Component' ( Cast To BC_Door  would always fail).
+[2018.12.03-01.29.18:868][538]LogBlueprint: Warning: [Compiler BC_DoorFrame] [1580.57] Compile of BC_DoorFrame successful, but with 1 Warning(s) [in 354 ms] (/Game/Actors/BC_DoorFrame.BC_DoorFrame)
+[2018.12.03-01.29.19:868][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_DoorFrame" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_DoorFrame.uasset" SILENT=true
+[2018.12.03-01.29.19:895][575]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_DoorFrame6EA602C34D071F1D58EDB7A9EA9A1021.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_DoorFrame.uasset'
+[2018.12.03-01.29.41:123][351]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Actors/BC_Door.BC_Door
+[2018.12.03-01.30.21:830][916]BlueprintLog: New page: Compile BC_DoorFrame
+[2018.12.03-01.30.22:642][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_DoorFrame" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_DoorFrame.uasset" SILENT=true
+[2018.12.03-01.30.22:671][930]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_DoorFrameFE606FEA4F14E6719EC5EEAAF1724F6E.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_DoorFrame.uasset'
+[2018.12.03-01.30.26:239][ 73]LogSlate: Window 'BC_Door' being destroyed
+[2018.12.03-01.30.26:264][ 73]LogSlate: Window 'BC_Door' being destroyed
+[2018.12.03-01.30.26:347][ 73]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.03-01.30.27:302][114]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-01.30.27:342][114]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.30.27:342][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-01.30.27:342][114]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 3:30:27 PM)
+[2018.12.03-01.30.27:342][114]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.03-01.30.27:766][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.423911s)
+[2018.12.03-01.30.27:767][114]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.03-01.30.27:767][114]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2018.12.03-01.30.27:768][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.425275s)
+[2018.12.03-01.30.27:810][114]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.03-01.30.27:975][114]LogInit: FAudioDevice initialized.
+[2018.12.03-01.30.28:010][114]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.03-01.30.28:073][114]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-20.30.28
+[2018.12.03-01.30.28:086][114]LogWorld: Bringing up level for play took: 0.075027
+[2018.12.03-01.30.28:104][114]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 1.619
+[2018.12.03-01.30.28:105][114]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.30.28:986][147]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.30.28:987][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.30.29:060][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-01.30.29:061][147]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.30.29:101][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.30.29:169][148]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2018.12.03-01.30.29:622][166]LogEditorViewport: Clicking on Actor (LMB): BC_DoorFrame_C (BC_DoorFrame12)
+[2018.12.03-01.30.33:011][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.30.33:113][327]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-01.30.33:143][327]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.30.33:144][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-01.30.33:144][327]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 3:30:33 PM)
+[2018.12.03-01.30.33:144][327]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.03-01.30.33:554][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.410006s)
+[2018.12.03-01.30.33:554][327]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.03-01.30.33:555][327]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2018.12.03-01.30.33:555][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.411216s)
+[2018.12.03-01.30.33:591][327]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.03-01.30.33:756][327]LogInit: FAudioDevice initialized.
+[2018.12.03-01.30.33:791][327]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.03-01.30.33:859][327]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-20.30.33
+[2018.12.03-01.30.33:873][327]LogWorld: Bringing up level for play took: 0.080530
+[2018.12.03-01.30.33:892][327]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 1.407
+[2018.12.03-01.30.33:892][327]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.30.33:932][328]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.053415 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2018.12.03-01.30.43:860][847]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.30.43:860][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.30.43:937][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-01.30.43:937][847]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.30.43:974][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.30.44:046][848]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2018.12.03-01.30.44:645][875]LogEditorViewport: Clicking on Actor (LMB): BC_DoorFrame_C (BC_DoorFrame12)
+[2018.12.03-01.30.45:712][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.30.48:125][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-01.30.48:155][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.30.48:155][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-01.30.48:156][ 35]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 3:30:48 PM)
+[2018.12.03-01.30.48:156][ 35]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.03-01.30.48:568][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.412131s)
+[2018.12.03-01.30.48:568][ 35]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.03-01.30.48:569][ 35]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2018.12.03-01.30.48:569][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.413588s)
+[2018.12.03-01.30.48:607][ 35]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.03-01.30.48:771][ 35]LogInit: FAudioDevice initialized.
+[2018.12.03-01.30.48:803][ 35]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.03-01.30.48:872][ 35]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-20.30.48
+[2018.12.03-01.30.48:885][ 35]LogWorld: Bringing up level for play took: 0.081259
+[2018.12.03-01.30.48:903][ 35]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 0.418
+[2018.12.03-01.30.48:904][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.30.48:939][ 36]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.055025 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2018.12.03-01.30.52:928][242]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.30.52:929][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.30.53:005][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-01.30.53:005][242]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.30.53:045][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.30.53:112][243]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2018.12.03-01.30.53:745][275]LogEditorViewport: Clicking on Actor (LMB): BC_DoorFrame_C (BC_DoorFrame12)
+[2018.12.03-01.30.54:677][321]Cmd: DELETE
+[2018.12.03-01.30.54:677][321]Cmd: ACTOR DELETE
+[2018.12.03-01.30.54:812][321]LogEditorActor: Deleted Actor: BC_DoorFrame_C
+[2018.12.03-01.30.54:874][321]LogEditorActor: Deleted 1 Actors (0.198 secs)
+[2018.12.03-01.31.00:989][553]LogEditorViewport: Clicking on Actor (LMB): BC_DoorFrame_C (BC_DoorFrame)
+[2018.12.03-01.31.04:857][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.31.11:609][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.31.37:941][161]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Actors/BC_Door.BC_Door
+[2018.12.03-01.31.50:490][614]BlueprintLog: New page: Compile BC_Door
+[2018.12.03-01.31.50:784][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3307.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:786][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3309.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:787][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3311.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:789][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3313.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:791][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3315.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:792][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3317.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:794][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3319.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:796][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3321.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:798][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_63.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:799][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3323.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:801][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3325.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:803][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3327.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:814][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3329.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:815][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3331.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:816][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3333.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:817][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3335.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:819][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3337.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:820][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3339.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:821][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3341.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:822][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3343.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:823][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_65.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:824][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3345.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:826][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3347.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.50:827][614]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3349.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.31.51:959][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Door" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Door.uasset" SILENT=true
+[2018.12.03-01.31.52:004][652]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_Door680261C249B0922AE249B99B2887301A.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Door.uasset'
+[2018.12.03-01.32.00:025][974]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3351.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.00:027][974]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3353.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.00:029][974]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3355.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.00:031][974]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3357.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.00:032][974]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3359.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.00:033][974]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3361.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.00:035][974]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3363.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.00:037][974]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3365.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.00:038][974]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_67.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.00:039][974]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3367.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.00:041][974]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3369.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.00:042][974]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3371.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:088][ 15]BlueprintLog: New page: Compile BC_Door
+[2018.12.03-01.32.01:385][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame5
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:385][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3373.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:386][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame6
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:386][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3375.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:388][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame7
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:388][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3377.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:389][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame8
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:389][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3379.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:390][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame10_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:390][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3381.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:391][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame11_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:391][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3383.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:392][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame9_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:393][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3385.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:394][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame4_5
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:394][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3387.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:395][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Engine/Transient.World_11:PersistentLevel.BC_DoorFrame_C_4
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:395][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_69.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:396][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame3_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:396][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3389.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:397][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:397][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3391.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:398][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:398][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3393.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:409][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame5
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:410][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3395.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:411][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame6
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:411][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3397.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:412][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame7
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:412][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3399.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:413][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame8
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:413][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3401.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:414][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame10_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:414][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3403.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:416][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame11_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:416][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3405.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:417][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame9_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:417][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3407.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:418][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame4_5
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:418][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3409.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:419][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Engine/Transient.World_11:PersistentLevel.BC_DoorFrame_C_4
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:419][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_71.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:421][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame3_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:421][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3411.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:422][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:422][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3413.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:423][ 15]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.01:423][ 15]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/CastleMap.CastleMap:PersistentLevel.DESTROYED_BC_Door_C_CHILDACTOR_3415.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-01.32.01:984][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_Door" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Door.uasset" SILENT=true
+[2018.12.03-01.32.02:023][ 32]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_DoorFBBECD0E414D4BB6DF4BCC985611C042.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_Door.uasset'
+[2018.12.03-01.32.05:110][154]LogSlate: Window 'BC_Door' being destroyed
+[2018.12.03-01.32.08:877][284]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Actors/BC_DoorFrame.BC_DoorFrame
+[2018.12.03-01.32.09:293][284]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Engine/Transient.World_35:PersistentLevel.BC_DoorFrame_C_0
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.28:079][ 21]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame10_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.28:081][ 21]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame11_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.28:082][ 21]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.28:084][ 21]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame3_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.28:085][ 21]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame4_5
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.28:087][ 21]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame5
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.28:088][ 21]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame6
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.28:090][ 21]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame7
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.28:091][ 21]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame8
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.28:093][ 21]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame9_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.28:095][ 21]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Game/Maps/CastleMap.CastleMap:PersistentLevel.BC_DoorFrame_2
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.28:097][ 21]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Engine/Transient.World_35:PersistentLevel.BC_DoorFrame_C_0
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.28:098][ 21]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	BC_DoorFrame_C /Engine/Transient.World_11:PersistentLevel.BC_DoorFrame_C_4
+	Function /Game/Actors/BC_DoorFrame.BC_DoorFrame_C:UserConstructionScript:008B
+[2018.12.03-01.32.32:680][210]BlueprintLog: New page: Compile BC_DoorFrame
+[2018.12.03-01.32.33:411][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BC_DoorFrame" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_DoorFrame.uasset" SILENT=true
+[2018.12.03-01.32.33:446][221]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/BC_DoorFrame3AF572DA430C25D740AA1F8000609138.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Actors/BC_DoorFrame.uasset'
+[2018.12.03-01.32.34:000][244]LogSlate: Window 'BC_DoorFrame' being destroyed
+[2018.12.03-01.32.35:407][304]LogEditorViewport: Clicking on Actor (LMB): BC_DoorFrame_C (BC_DoorFrame2)
+[2018.12.03-01.32.39:699][465]Cmd: SELECT NONE
+[2018.12.03-01.32.41:855][551]LogEditorViewport: Clicking on Actor (LMB): BC_DoorFrame_C (BC_DoorFrame)
+[2018.12.03-01.32.43:369][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.32.45:047][682]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-01.32.45:090][682]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.32.45:090][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-01.32.45:090][682]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 3:32:45 PM)
+[2018.12.03-01.32.45:091][682]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.03-01.32.45:510][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.419751s)
+[2018.12.03-01.32.45:511][682]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.03-01.32.45:511][682]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2018.12.03-01.32.45:511][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.420944s)
+[2018.12.03-01.32.45:549][682]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.03-01.32.45:716][682]LogInit: FAudioDevice initialized.
+[2018.12.03-01.32.45:748][682]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.03-01.32.45:814][682]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-20.32.45
+[2018.12.03-01.32.45:826][682]LogWorld: Bringing up level for play took: 0.076684
+[2018.12.03-01.32.45:844][682]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 1.359
+[2018.12.03-01.32.45:845][682]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.32.48:931][819]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.32.48:932][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.32.49:013][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-01.32.49:014][819]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.32.49:054][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.32.49:122][820]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2018.12.03-01.32.50:141][864]LogEditorViewport: Clicking on Actor (LMB): BC_DoorFrame_C (BC_DoorFrame)
+[2018.12.03-01.32.51:442][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.33.07:440][450]LogEditorViewport: Clicking on Actor (LMB): BC_DoorFrame_C (BC_DoorFrame5)
+[2018.12.03-01.33.11:221][572]Cmd: EDIT COPY
+[2018.12.03-01.33.19:666][866]LogEditorViewport: Clicking on Actor (CTRL LMB): BC_DoorFrame_C (BC_DoorFrame5)
+[2018.12.03-01.33.22:616][940]Cmd: EDIT COPY
+[2018.12.03-01.33.23:163][950]Cmd: EDIT PASTE
+[2018.12.03-01.33.43:648][413]Cmd: SELECT NONE
+[2018.12.03-01.33.44:297][443]LogEditorViewport: Clicking on Actor (LMB): BC_DoorFrame_C (BC_DoorFrame12)
+[2018.12.03-01.33.45:878][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.33.47:403][577]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-01.33.47:433][577]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.33.47:433][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-01.33.47:434][577]PIE: New page: PIE session: CastleMap (Dec 2, 2018, 3:33:47 PM)
+[2018.12.03-01.33.47:434][577]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleMap
+[2018.12.03-01.33.47:860][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.427112s)
+[2018.12.03-01.33.47:861][577]LogAIModule: Creating AISystem for world CastleMap
+[2018.12.03-01.33.47:861][577]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2018.12.03-01.33.47:862][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleMap.CastleMap to /Game/Maps/UEDPIE_0_CastleMap.CastleMap (0.428794s)
+[2018.12.03-01.33.47:911][577]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.03-01.33.48:077][577]LogInit: FAudioDevice initialized.
+[2018.12.03-01.33.48:109][577]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.03-01.33.48:168][577]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleMap.CastleMap up for play (max tick rate 0) at 2018.12.02-20.33.48
+[2018.12.03-01.33.48:180][577]LogWorld: Bringing up level for play took: 0.069865
+[2018.12.03-01.33.48:198][577]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CastleMap 1.713
+[2018.12.03-01.33.48:198][577]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.33.52:935][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.33.52:936][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.33.53:022][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-01.33.53:022][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CastleMap.CastleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap' with GeneratedClass '/Game/Maps/CastleMap.CastleMap_C' with ClassGeneratedBy '/Game/Maps/CastleMap.CastleMap:PersistentLevel.CastleMap'
+[2018.12.03-01.33.53:055][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.33.53:126][839]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2018.12.03-01.34.00:917][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.34.01:052][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CastleMap" FILE="../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.03-01.34.04:583][ 72]LogSavePackage: Moving '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Saved/CastleMapDC4A123C4153BDD22EB0C2A19118DE18.tmp' to '../../../../../GitHub/CastleRavenloft/CastleRavenloft/Content/Maps/CastleMap.umap'
+[2018.12.03-01.34.06:613][140]LogSlate: Window 'CastleRavenloft - Unreal Editor' being destroyed
+[2018.12.03-01.34.06:859][141]Cmd: QUIT_EDITOR
+[2018.12.03-01.34.07:846][141]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-01.34.07:860][141]LogExit: Preparing to exit.
+[2018.12.03-01.34.08:410][141]LogExit: Editor shut down
+[2018.12.03-01.34.08:411][141]LogExit: Transaction tracking system shut down
+[2018.12.03-01.34.08:752][141]LogExit: Object subsystem successfully closed.
+[2018.12.03-01.34.08:765][141]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.03-01.34.08:770][141]LogD3D11RHI: Shutdown
+[2018.12.03-01.34.08:770][141]LogD3D11RHI: CleanupD3DDevice
+[2018.12.03-01.34.08:778][141]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.03-01.34.08:791][141]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (624)
+[2018.12.03-01.34.08:791][141]LogModuleManager: Shutting down and abandoning module PinnedCommandList (622)
+[2018.12.03-01.34.08:791][141]LogModuleManager: Shutting down and abandoning module SkeletonEditor (620)
+[2018.12.03-01.34.08:791][141]LogModuleManager: Shutting down and abandoning module AnimationEditor (618)
+[2018.12.03-01.34.08:791][141]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2018.12.03-01.34.08:791][141]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2018.12.03-01.34.08:791][141]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2018.12.03-01.34.08:791][141]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.12.03-01.34.08:791][141]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.12.03-01.34.08:791][141]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.03-01.34.08:792][141]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.03-01.34.08:793][141]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.03-01.34.09:641][141]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.03-01.34.09:641][141]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.03-01.34.09:641][141]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.03-01.34.09:641][141]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.03-01.34.09:641][141]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.03-01.34.09:641][141]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.03-01.34.09:641][141]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.03-01.34.09:641][141]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.03-01.34.09:642][141]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.03-01.34.09:642][141]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.03-01.34.09:642][141]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.03-01.34.09:642][141]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.03-01.34.09:642][141]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.03-01.34.09:642][141]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.03-01.34.09:642][141]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.03-01.34.09:642][141]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.03-01.34.09:642][141]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.03-01.34.09:642][141]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.03-01.34.09:642][141]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.03-01.34.09:642][141]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.03-01.34.09:642][141]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.03-01.34.09:642][141]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.03-01.34.09:695][141]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.03-01.34.09:695][141]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.03-01.34.09:695][141]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.03-01.34.09:695][141]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.03-01.34.09:695][141]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.03-01.34.09:695][141]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.03-01.34.09:695][141]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.03-01.34.09:695][141]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.03-01.34.09:695][141]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.03-01.34.09:695][141]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.03-01.34.09:700][141]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.03-01.34.09:700][141]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.03-01.34.09:701][141]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.03-01.34.09:780][141]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.03-01.34.09:780][141]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.03-01.34.09:780][141]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.03-01.34.09:780][141]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.03-01.34.09:780][141]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.03-01.34.09:780][141]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.03-01.34.09:780][141]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.03-01.34.09:781][141]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.03-01.34.09:781][141]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.03-01.34.09:781][141]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.03-01.34.09:781][141]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.03-01.34.09:781][141]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.03-01.34.09:781][141]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.03-01.34.09:781][141]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.03-01.34.09:781][141]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.03-01.34.09:781][141]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.03-01.34.09:781][141]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.03-01.34.09:781][141]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.03-01.34.09:783][141]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.03-01.34.09:783][141]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.03-01.34.09:783][141]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.03-01.34.09:783][141]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.03-01.34.09:783][141]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.03-01.34.09:783][141]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.03-01.34.09:783][141]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.03-01.34.09:783][141]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.03-01.34.09:783][141]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.03-01.34.09:783][141]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.03-01.34.09:783][141]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.03-01.34.09:783][141]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.03-01.34.09:784][141]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.03-01.34.09:885][141]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.03-01.34.09:986][141]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.03-01.34.09:986][141]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.03-01.34.09:986][141]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.03-01.34.09:986][141]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.03-01.34.09:986][141]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.03-01.34.09:986][141]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.03-01.34.09:986][141]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.03-01.34.09:988][141]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.03-01.34.09:988][141]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.03-01.34.09:988][141]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.03-01.34.09:988][141]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.03-01.34.09:989][141]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.03-01.34.09:991][141]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.03-01.34.09:991][141]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.03-01.34.09:991][141]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.03-01.34.09:991][141]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.03-01.34.09:991][141]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.03-01.34.09:991][141]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.03-01.34.09:993][141]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.03-01.34.09:999][141]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.03-01.34.09:999][141]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.03-01.34.09:999][141]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.03-01.34.09:999][141]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.03-01.34.09:999][141]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.03-01.34.09:999][141]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.03-01.34.09:999][141]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.03-01.34.09:999][141]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.03-01.34.09:999][141]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.03-01.34.09:999][141]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.03-01.34.10:000][141]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.03-01.34.10:000][141]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.03-01.34.10:000][141]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.03-01.34.10:000][141]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.03-01.34.10:000][141]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.03-01.34.10:000][141]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.03-01.34.10:000][141]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.03-01.34.10:000][141]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.03-01.34.10:000][141]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.03-01.34.10:000][141]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.03-01.34.10:002][141]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.03-01.34.10:002][141]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.03-01.34.10:002][141]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.03-01.34.10:002][141]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.03-01.34.10:002][141]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.03-01.34.10:002][141]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.03-01.34.10:002][141]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.03-01.34.10:002][141]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.03-01.34.10:002][141]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.03-01.34.10:003][141]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.03-01.34.10:003][141]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.03-01.34.10:003][141]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.03-01.34.10:003][141]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.03-01.34.10:003][141]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.03-01.34.10:003][141]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.03-01.34.10:003][141]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.03-01.34.10:003][141]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.03-01.34.10:003][141]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.03-01.34.10:057][141]LogDerivedDataCache: Shutdown
+[2018.12.03-01.34.10:057][141]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.03-01.34.10:057][141]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.03-01.34.10:057][141]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.03-01.34.10:057][141]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.03-01.34.10:057][141]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.03-01.34.10:057][141]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.03-01.34.10:057][141]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.03-01.34.10:057][141]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.03-01.34.10:057][141]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.03-01.34.10:057][141]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.03-01.34.10:057][141]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.03-01.34.10:058][141]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.03-01.34.10:058][141]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.03-01.34.10:058][141]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.03-01.34.10:058][141]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.03-01.34.10:058][141]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.03-01.34.10:058][141]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.03-01.34.10:058][141]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.03-01.34.10:058][141]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.03-01.34.10:058][141]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.03-01.34.10:058][141]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.03-01.34.10:058][141]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.03-01.34.10:058][141]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.03-01.34.10:059][141]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.03-01.34.10:059][141]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.03-01.34.10:061][141]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.03-01.34.10:061][141]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.03-01.34.10:079][141]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.03-01.34.10:080][141]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.03-01.34.10:080][141]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.03-01.34.10:110][141]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.03-01.34.10:110][141]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.03-01.34.10:111][141]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB8456A37-4572-8586-9332-62BD7C1B01B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=3390e48f42edcfc399dbc0aac3562c11%7Cd8e41813bb5c4e62b4ce07fe080dc9e0%7C72d11875-506a-4c23-b636-6aa1269d9b41&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.03-01.34.10:146][141]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.03-01.34.10:148][141]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.03-01.34.10:148][141]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.03-01.34.10:148][141]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.03-01.34.10:148][141]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.03-01.34.10:148][141]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.03-01.34.10:148][141]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.03-01.34.10:148][141]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.03-01.34.10:148][141]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.03-01.34.10:148][141]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.03-01.34.10:148][141]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.03-01.34.10:148][141]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.03-01.34.10:149][141]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.03-01.34.10:149][141]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.03-01.34.10:149][141]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.03-01.34.10:149][141]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.03-01.34.10:149][141]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.03-01.34.10:149][141]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.03-01.34.10:149][141]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.03-01.34.10:150][141]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.03-01.34.10:150][141]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.03-01.34.10:150][141]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.03-01.34.10:150][141]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.03-01.34.10:150][141]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.03-01.34.10:150][141]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.03-01.34.10:150][141]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.03-01.34.10:150][141]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.03-01.34.10:150][141]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.03-01.34.10:150][141]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.03-01.34.10:150][141]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.03-01.34.10:157][141]LogExit: Exiting.
+[2018.12.03-01.34.10:160][141]Log file closed, 12/02/18 20:34:10

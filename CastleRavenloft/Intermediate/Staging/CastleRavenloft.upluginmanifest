@@ -1117,6 +1117,44 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Runtime/AudioCapture/AudioCapture.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Audio Capture",
+				"Description": "Plugin provides an interface for microphone input capture.",
+				"Category": "Audio",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "AudioCapture",
+						"Type": "Runtime",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Lumin"
+						]
+					},
+					{
+						"Name": "AudioCaptureEditor",
+						"Type": "Editor",
+						"LoadingPhase": "PostEngineInit",
+						"WhitelistPlatforms": [
+							"Win64"
+						]
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin",
 			"Descriptor": 
 			{
